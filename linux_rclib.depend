@@ -1,0 +1,2588 @@
+# depslib dependency file v1.0
+1316432960 source:/home/rcor/dev/C/pcap/rclib/datatypes/hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1316045052 /home/rcor/dev/C/pcap/rclib/datatypes/hashtab.h
+	"primitives.h"
+
+1315829586 /home/rcor/dev/C/pcap/rclib/datatypes/primitives.h
+	<limits.h>
+
+1316034936 source:/home/rcor/dev/C/pcap/rclib/datatypes/list.c
+	"list.h"
+
+1316036074 /home/rcor/dev/C/pcap/rclib/datatypes/list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 /home/rcor/dev/C/pcap/rclib/datatypes/node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:/home/rcor/dev/C/pcap/rclib/datatypes/mat.c
+	"mat.h"
+
+1316035838 /home/rcor/dev/C/pcap/rclib/datatypes/mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:/home/rcor/dev/C/pcap/rclib/datatypes/node.c
+	"node.h"
+
+1316034906 source:/home/rcor/dev/C/pcap/rclib/datatypes/stack.c
+	"stack.h"
+
+1316910132 /home/rcor/dev/C/pcap/rclib/datatypes/stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:/home/rcor/dev/C/pcap/rclib/datatypes/str.c
+	"str.h"
+
+1316910111 /home/rcor/dev/C/pcap/rclib/datatypes/str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:/home/rcor/dev/C/pcap/rclib/datatypes/vec.c
+	"vec.h"
+
+1316030592 /home/rcor/dev/C/pcap/rclib/datatypes/vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1316915232 source:/home/rcor/dev/C/pcap/rclib/net/netutil.c
+	"netutil.h"
+	<stdio.h>
+	<windows.h>
+	<iphlpapi.h>
+	<assert.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<net/if.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+
+1316918933 /home/rcor/dev/C/pcap/rclib/net/netutil.h
+	"packet.h"
+	"nethost.h"
+
+1316785416 /home/rcor/dev/C/pcap/rclib/net/packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316692954 /home/rcor/dev/C/pcap/rclib/net/protocols/arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1316784902 /home/rcor/dev/C/pcap/rclib/net/protocols/ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib/net/protocols/eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib/net/protocols/dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785598 /home/rcor/dev/C/pcap/rclib/net/protocols/icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785606 /home/rcor/dev/C/pcap/rclib/net/protocols/icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 /home/rcor/dev/C/pcap/rclib/net/protocols/ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib/net/protocols/ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib/net/protocols/tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib/net/protocols/udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316967547 /home/rcor/dev/C/pcap/rclib/net/nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1316005842 source:/home/rcor/dev/C/pcap/rclib/net/network.c
+	"network.h"
+
+1316785406 /home/rcor/dev/C/pcap/rclib/net/network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1316785644 source:/home/rcor/dev/C/pcap/rclib/net/packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316690098 /home/rcor/dev/C/pcap/rclib/net/util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1316440822 source:/home/rcor/dev/C/pcap/rclib/net/protocols/arp.c
+	"arp.h"
+
+1316087690 source:/home/rcor/dev/C/pcap/rclib/net/protocols/dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:/home/rcor/dev/C/pcap/rclib/net/protocols/eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:/home/rcor/dev/C/pcap/rclib/net/protocols/icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:/home/rcor/dev/C/pcap/rclib/net/protocols/icmpv6.c
+	"icmpv6.h"
+
+1316441850 source:/home/rcor/dev/C/pcap/rclib/net/protocols/ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+
+1316702928 source:/home/rcor/dev/C/pcap/rclib/net/protocols/ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:/home/rcor/dev/C/pcap/rclib/net/protocols/ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:/home/rcor/dev/C/pcap/rclib/net/protocols/tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:/home/rcor/dev/C/pcap/rclib/net/protocols/udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087844 source:/home/rcor/dev/C/pcap/rclib/net/util.c
+	"util.h"
+
+1316087402 source:/home/rcor/dev/C/pcap/rclib/time/time.c
+	"time.h"
+
+1316475222 /home/rcor/dev/C/pcap/rclib/time/time.h
+	<stdio.h>
+	<time.h>
+
+1316088672 source:/home/rcor/dev/C/pcap/rclib/time/timer.c
+	"timer.h"
+
+1316476026 /home/rcor/dev/C/pcap/rclib/time/timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1316969270 source:/home/rcor/dev/C/pcap/rclib/net/nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317134114 source:/home/rcor/dev/C/pcap/rclib_v0.20/datatypes/hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1317134056 /home/rcor/dev/C/pcap/rclib_v0.20/datatypes/hashtab.h
+	"primitives.h"
+
+1315829586 /home/rcor/dev/C/pcap/rclib_v0.20/datatypes/primitives.h
+	<limits.h>
+
+1316034936 source:/home/rcor/dev/C/pcap/rclib_v0.20/datatypes/list.c
+	"list.h"
+
+1316036074 /home/rcor/dev/C/pcap/rclib_v0.20/datatypes/list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 /home/rcor/dev/C/pcap/rclib_v0.20/datatypes/node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:/home/rcor/dev/C/pcap/rclib_v0.20/datatypes/mat.c
+	"mat.h"
+
+1316035838 /home/rcor/dev/C/pcap/rclib_v0.20/datatypes/mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:/home/rcor/dev/C/pcap/rclib_v0.20/datatypes/node.c
+	"node.h"
+
+1316034906 source:/home/rcor/dev/C/pcap/rclib_v0.20/datatypes/stack.c
+	"stack.h"
+
+1316910132 /home/rcor/dev/C/pcap/rclib_v0.20/datatypes/stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:/home/rcor/dev/C/pcap/rclib_v0.20/datatypes/str.c
+	"str.h"
+
+1316910112 /home/rcor/dev/C/pcap/rclib_v0.20/datatypes/str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:/home/rcor/dev/C/pcap/rclib_v0.20/datatypes/vec.c
+	"vec.h"
+
+1317134860 /home/rcor/dev/C/pcap/rclib_v0.20/datatypes/vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1318598302 source:/home/rcor/dev/C/pcap/rclib_v0.20/main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pcap.h>
+	"time/time.h"
+	"time/timer.h"
+	"net/network.h"
+	"net/util.h"
+	"net/netutil.h"
+	"net/nethost.h"
+	"net/stats/packetstats.h"
+	"time/hr_time.h"
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	"time/time.h"
+	<stdio.h>
+	<stdlib.h>
+	"datatypes/vec.h"
+	"datatypes/mat.h"
+	"datatypes/node.h"
+	"datatypes/list.h"
+	"datatypes/stack.h"
+	"datatypes/hashtab.h"
+
+1316475222 /home/rcor/dev/C/pcap/rclib_v0.20/time/time.h
+	<stdio.h>
+	<time.h>
+
+1317296750 /home/rcor/dev/C/pcap/rclib_v0.20/time/timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1316785406 /home/rcor/dev/C/pcap/rclib_v0.20/net/network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1316692954 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1317130540 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317485900 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317488146 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785416 /home/rcor/dev/C/pcap/rclib_v0.20/net/packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316690098 /home/rcor/dev/C/pcap/rclib_v0.20/net/util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1317043318 /home/rcor/dev/C/pcap/rclib_v0.20/net/netutil.h
+	"packet.h"
+	"nethost.h"
+
+1317128896 /home/rcor/dev/C/pcap/rclib_v0.20/net/nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1317212372 /home/rcor/dev/C/pcap/rclib_v0.20/net/stats/packetstats.h
+	"../../util.h"
+	"../../datatypes/primitives.h"
+	"../../datatypes/hashtab.h"
+	"../packet.h"
+	"icmpstats.h"
+	"tcpstats.h"
+	"udpstats.h"
+	<stdio.h>
+	<stdlib.h>
+
+1317209756 /home/rcor/dev/C/pcap/rclib_v0.20/util.h
+	"datatypes/primitives.h"
+
+1317488984 /home/rcor/dev/C/pcap/rclib_v0.20/net/stats/icmpstats.h
+	<stdio.h>
+	"../../util.h"
+
+1317430026 /home/rcor/dev/C/pcap/rclib_v0.20/net/stats/tcpstats.h
+	<stdlib.h>
+	<stdio.h>
+	"../../util.h"
+
+1317430142 /home/rcor/dev/C/pcap/rclib_v0.20/net/stats/udpstats.h
+	<stdio.h>
+	"../../util.h"
+
+1317416132 /home/rcor/dev/C/pcap/rclib_v0.20/time/hr_time.h
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1317129838 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317043314 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/netutil.c
+	"netutil.h"
+
+1316005842 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/network.c
+	"network.h"
+
+1316785644 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316440822 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/arp.c
+	"arp.h"
+
+1316087690 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/icmpv6.c
+	"icmpv6.h"
+
+1317131232 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/protocols/udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1318597924 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/security/detectdos.c
+	"detectdos.h"
+
+1318593238 /home/rcor/dev/C/pcap/rclib_v0.20/net/security/detectdos.h
+	<stdlib.h>
+	<stdio.h>
+	"../../util.h"
+	"../stats/packetstats.h"
+	"../packet.h"
+
+1317495588 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/stats/icmpstats.c
+	"icmpstats.h"
+
+1318516306 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/stats/packetstats.c
+	"packetstats.h"
+
+1317495620 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/stats/tcpstats.c
+	"tcpstats.h"
+
+1317430130 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/stats/udpstats.c
+	"udpstats.h"
+
+1316087844 source:/home/rcor/dev/C/pcap/rclib_v0.20/net/util.c
+	"util.h"
+
+1318509744 source:/home/rcor/dev/C/pcap/rclib_v0.20/time/hr_time.c
+	"hr_time.h"
+
+1316087402 source:/home/rcor/dev/C/pcap/rclib_v0.20/time/time.c
+	"time.h"
+
+1317296742 source:/home/rcor/dev/C/pcap/rclib_v0.20/time/timer.c
+	"timer.h"
+
+1317135238 source:/home/rcor/dev/C/pcap/rclib_v0.20/util.c
+	"util.h"
+
+1318729703 source:/home/rcor/dev/C/pcap/rclib_v0.27/datatypes/hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1317134056 /home/rcor/dev/C/pcap/rclib_v0.27/datatypes/hashtab.h
+	"primitives.h"
+
+1315829586 /home/rcor/dev/C/pcap/rclib_v0.27/datatypes/primitives.h
+	<limits.h>
+
+1316034936 source:/home/rcor/dev/C/pcap/rclib_v0.27/datatypes/list.c
+	"list.h"
+
+1333335410 /home/rcor/dev/C/pcap/rclib_v0.27/datatypes/list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 /home/rcor/dev/C/pcap/rclib_v0.27/datatypes/node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:/home/rcor/dev/C/pcap/rclib_v0.27/datatypes/mat.c
+	"mat.h"
+
+1316035838 /home/rcor/dev/C/pcap/rclib_v0.27/datatypes/mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:/home/rcor/dev/C/pcap/rclib_v0.27/datatypes/node.c
+	"node.h"
+
+1316034906 source:/home/rcor/dev/C/pcap/rclib_v0.27/datatypes/stack.c
+	"stack.h"
+
+1319224756 /home/rcor/dev/C/pcap/rclib_v0.27/datatypes/stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:/home/rcor/dev/C/pcap/rclib_v0.27/datatypes/str.c
+	"str.h"
+
+1316910112 /home/rcor/dev/C/pcap/rclib_v0.27/datatypes/str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:/home/rcor/dev/C/pcap/rclib_v0.27/datatypes/vec.c
+	"vec.h"
+
+1317134860 /home/rcor/dev/C/pcap/rclib_v0.27/datatypes/vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1333331163 source:/home/rcor/dev/C/pcap/rclib_v0.27/ml/nbc.c
+	"nbc.h"
+	<math.h>
+	<stdio.h>
+
+1333332343 /home/rcor/dev/C/pcap/rclib_v0.27/ml/nbc.h
+	"../datatypes/mat.h"
+	"../datatypes/vec.h"
+	"../datatypes/primitives.h"
+
+1333332566 source:/home/rcor/dev/C/pcap/rclib_v0.27/ml/nbcio.c
+	"nbcio.h"
+
+1333331320 /home/rcor/dev/C/pcap/rclib_v0.27/ml/nbcio.h
+	"nbc.h"
+	<stdio.h>
+
+1317129838 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317128896 /home/rcor/dev/C/pcap/rclib_v0.27/net/nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1316785416 /home/rcor/dev/C/pcap/rclib_v0.27/net/packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316692954 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1317130540 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317485900 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317488146 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317043314 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/netutil.c
+	"netutil.h"
+
+1317043318 /home/rcor/dev/C/pcap/rclib_v0.27/net/netutil.h
+	"packet.h"
+	"nethost.h"
+
+1316005842 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/network.c
+	"network.h"
+
+1316785406 /home/rcor/dev/C/pcap/rclib_v0.27/net/network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1316785644 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316690098 /home/rcor/dev/C/pcap/rclib_v0.27/net/util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1316440822 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/arp.c
+	"arp.h"
+
+1316087690 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/icmpv6.c
+	"icmpv6.h"
+
+1317131232 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/protocols/udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1333383061 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/security/detectdos.c
+	"detectdos.h"
+
+1333383038 /home/rcor/dev/C/pcap/rclib_v0.27/net/security/detectdos.h
+	<stdlib.h>
+	<stdio.h>
+	"../../util.h"
+	"../stats/packetstats.h"
+	"../packet.h"
+	"../../datatypes/hashtab.h"
+
+1317209756 /home/rcor/dev/C/pcap/rclib_v0.27/util.h
+	"datatypes/primitives.h"
+
+1319390642 /home/rcor/dev/C/pcap/rclib_v0.27/net/stats/packetstats.h
+	"../../util.h"
+	"../../datatypes/primitives.h"
+	"../../datatypes/hashtab.h"
+	"../../time/time.h"
+	"../packet.h"
+	"icmpstats.h"
+	"tcpstats.h"
+	"udpstats.h"
+	<stdio.h>
+	<stdlib.h>
+
+1316475222 /home/rcor/dev/C/pcap/rclib_v0.27/time/time.h
+	<stdio.h>
+	<time.h>
+
+1319333367 /home/rcor/dev/C/pcap/rclib_v0.27/net/stats/icmpstats.h
+	<stdio.h>
+	"../../util.h"
+
+1319333351 /home/rcor/dev/C/pcap/rclib_v0.27/net/stats/tcpstats.h
+	<stdlib.h>
+	<stdio.h>
+	"../../util.h"
+
+1319333360 /home/rcor/dev/C/pcap/rclib_v0.27/net/stats/udpstats.h
+	<stdio.h>
+	"../../util.h"
+
+1319333435 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/stats/icmpstats.c
+	"icmpstats.h"
+
+1319390046 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/stats/packetstats.c
+	"packetstats.h"
+
+1333331299 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/stats/tcpstats.c
+	"tcpstats.h"
+
+1319333413 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/stats/udpstats.c
+	"udpstats.h"
+
+1316087844 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/util.c
+	"util.h"
+
+1318509744 source:/home/rcor/dev/C/pcap/rclib_v0.27/time/hr_time.c
+	"hr_time.h"
+
+1317416132 /home/rcor/dev/C/pcap/rclib_v0.27/time/hr_time.h
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1319323421 source:/home/rcor/dev/C/pcap/rclib_v0.27/time/time.c
+	"time.h"
+
+1317296742 source:/home/rcor/dev/C/pcap/rclib_v0.27/time/timer.c
+	"timer.h"
+
+1317296750 /home/rcor/dev/C/pcap/rclib_v0.27/time/timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1317135238 source:/home/rcor/dev/C/pcap/rclib_v0.27/util.c
+	"util.h"
+
+1333333025 source:/home/rcor/dev/C/pcap/rclib_v0.27/main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pcap.h>
+	"time/time.h"
+	"time/timer.h"
+	"net/network.h"
+	"net/util.h"
+	"net/netutil.h"
+	"net/nethost.h"
+	"net/stats/packetstats.h"
+	"net/security/detectdos.h"
+	<stdio.h>
+	<stdlib.h>
+	"./datatypes/mat.h"
+	"./datatypes/vec.h"
+	"./ml/nbc.h"
+	"./ml/nbcio.h"
+
+1333383102 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/security/doscp/icmpp.c
+	"icmpp.h"
+
+1333382707 /home/rcor/dev/C/pcap/rclib_v0.27/net/security/doscp/icmpp.h
+	<stdio.h>
+	"../../../util.h"
+
+1333410296 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/security/doscp/packetp.c
+	"packetp.h"
+
+1333388579 /home/rcor/dev/C/pcap/rclib_v0.27/net/security/doscp/packetp.h
+	"../../util.h"
+	"../../../datatypes/primitives.h"
+	"../../../datatypes/hashtab.h"
+	"../../../time/time.h"
+	"../../packet.h"
+	"icmpp.h"
+	"tcpp.h"
+	"udpp.h"
+	<stdio.h>
+	<stdlib.h>
+
+1333387050 /home/rcor/dev/C/pcap/rclib_v0.27/net/security/doscp/tcpp.h
+	<stdlib.h>
+	<stdio.h>
+	"../../../util.h"
+
+1333382707 /home/rcor/dev/C/pcap/rclib_v0.27/net/security/doscp/udpp.h
+	<stdio.h>
+	"../../../util.h"
+
+1333387643 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/security/doscp/tcpp.c
+	"tcpp.h"
+
+1333383103 source:/home/rcor/dev/C/pcap/rclib_v0.27/net/security/doscp/udpp.c
+	"udpp.h"
+
+1318729703 source:/home/rcor/dev/C/pcap/rclib_v0.28/datatypes/hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1317134056 /home/rcor/dev/C/pcap/rclib_v0.28/datatypes/hashtab.h
+	"primitives.h"
+
+1315829586 /home/rcor/dev/C/pcap/rclib_v0.28/datatypes/primitives.h
+	<limits.h>
+
+1316035826 source:/home/rcor/dev/C/pcap/rclib_v0.28/datatypes/mat.c
+	"mat.h"
+
+1316035838 /home/rcor/dev/C/pcap/rclib_v0.28/datatypes/mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:/home/rcor/dev/C/pcap/rclib_v0.28/datatypes/node.c
+	"node.h"
+
+1316035916 /home/rcor/dev/C/pcap/rclib_v0.28/datatypes/node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316034906 source:/home/rcor/dev/C/pcap/rclib_v0.28/datatypes/stack.c
+	"stack.h"
+
+1319224756 /home/rcor/dev/C/pcap/rclib_v0.28/datatypes/stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:/home/rcor/dev/C/pcap/rclib_v0.28/datatypes/str.c
+	"str.h"
+
+1316910112 /home/rcor/dev/C/pcap/rclib_v0.28/datatypes/str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:/home/rcor/dev/C/pcap/rclib_v0.28/datatypes/vec.c
+	"vec.h"
+
+1317134860 /home/rcor/dev/C/pcap/rclib_v0.28/datatypes/vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1333568092 source:/home/rcor/dev/C/pcap/rclib_v0.28/main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pcap.h>
+	"time/time.h"
+	"time/timer.h"
+	"net/network.h"
+	"net/util.h"
+	"net/netutil.h"
+	"net/nethost.h"
+	"net/security/doscp/packetp.h"
+	"net/security/dosc.h"
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	"./datatypes/mat.h"
+	"./datatypes/vec.h"
+	"./ml/nbc.h"
+	"./ml/nbcio.h"
+
+1316475222 /home/rcor/dev/C/pcap/rclib_v0.28/time/time.h
+	<stdio.h>
+	<time.h>
+
+1317296750 /home/rcor/dev/C/pcap/rclib_v0.28/time/timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1316785406 /home/rcor/dev/C/pcap/rclib_v0.28/net/network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1316692954 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1317130540 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317485900 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317488146 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785416 /home/rcor/dev/C/pcap/rclib_v0.28/net/packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316690098 /home/rcor/dev/C/pcap/rclib_v0.28/net/util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1317043318 /home/rcor/dev/C/pcap/rclib_v0.28/net/netutil.h
+	"packet.h"
+	"nethost.h"
+
+1317128896 /home/rcor/dev/C/pcap/rclib_v0.28/net/nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1333558767 /home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/packetp.h
+	"../../util.h"
+	"../../../datatypes/primitives.h"
+	"../../../datatypes/hashtab.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+	"../../../time/time.h"
+	"../../packet.h"
+	"icmpp.h"
+	"tcpp.h"
+	"udpp.h"
+	<stdio.h>
+	<stdlib.h>
+
+1333561357 /home/rcor/dev/C/pcap/rclib_v0.28/datatypes/list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1333382707 /home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/icmpp.h
+	<stdio.h>
+	"../../../util.h"
+
+1317209756 /home/rcor/dev/C/pcap/rclib_v0.28/util.h
+	"datatypes/primitives.h"
+
+1333560122 /home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/tcpp.h
+	<stdlib.h>
+	<stdio.h>
+	"../../../util.h"
+	"../../../datatypes/vec.h"
+	"../../../datatypes/mat.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+
+1333382707 /home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/udpp.h
+	<stdio.h>
+	"../../../util.h"
+
+1333567388 /home/rcor/dev/C/pcap/rclib_v0.28/net/security/dosc.h
+	<stdio.h>
+	"doscp/packetp.h"
+	"../../ml/nbc.h"
+	"../../datatypes/list.h"
+	"../../datatypes/vec.h"
+	"../../datatypes/mat.h"
+	"../../datatypes/node.h"
+
+1333427308 /home/rcor/dev/C/pcap/rclib_v0.28/ml/nbc.h
+	"../datatypes/mat.h"
+	"../datatypes/vec.h"
+	"../datatypes/primitives.h"
+
+1333331320 /home/rcor/dev/C/pcap/rclib_v0.28/ml/nbcio.h
+	"nbc.h"
+	<stdio.h>
+
+1333331163 source:/home/rcor/dev/C/pcap/rclib_v0.28/ml/nbc.c
+	"nbc.h"
+	<math.h>
+	<stdio.h>
+
+1333332566 source:/home/rcor/dev/C/pcap/rclib_v0.28/ml/nbcio.c
+	"nbcio.h"
+
+1317129838 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317043314 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/netutil.c
+	"netutil.h"
+
+1316005842 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/network.c
+	"network.h"
+
+1316785644 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316440822 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/arp.c
+	"arp.h"
+
+1316087690 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/icmpv6.c
+	"icmpv6.h"
+
+1317131232 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/protocols/udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1333567422 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/security/dosc.c
+	"dosc.h"
+	"../../ml/nbcio.h"
+
+1333383102 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/icmpp.c
+	"icmpp.h"
+
+1333557744 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/packetp.c
+	"packetp.h"
+
+1333558865 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/packetpio.c
+	"packetp.h"
+
+1333561523 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/tcpp.c
+	"tcpp.h"
+
+1333383103 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/security/doscp/udpp.c
+	"udpp.h"
+
+1316087844 source:/home/rcor/dev/C/pcap/rclib_v0.28/net/util.c
+	"util.h"
+
+1318509744 source:/home/rcor/dev/C/pcap/rclib_v0.28/time/hr_time.c
+	"hr_time.h"
+
+1317416132 /home/rcor/dev/C/pcap/rclib_v0.28/time/hr_time.h
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1319323421 source:/home/rcor/dev/C/pcap/rclib_v0.28/time/time.c
+	"time.h"
+
+1317296742 source:/home/rcor/dev/C/pcap/rclib_v0.28/time/timer.c
+	"timer.h"
+
+1317135238 source:/home/rcor/dev/C/pcap/rclib_v0.28/util.c
+	"util.h"
+
+1333561391 source:/home/rcor/dev/C/pcap/rclib_v0.28/datatypes/list.c
+	"list.h"
+
+1318729703 source:/home/rcor/dev/C/pcap/rclib_v0.35/datatypes/hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1317134056 /home/rcor/dev/C/pcap/rclib_v0.35/datatypes/hashtab.h
+	"primitives.h"
+
+1315829586 /home/rcor/dev/C/pcap/rclib_v0.35/datatypes/primitives.h
+	<limits.h>
+
+1333561391 source:/home/rcor/dev/C/pcap/rclib_v0.35/datatypes/list.c
+	"list.h"
+
+1333561357 /home/rcor/dev/C/pcap/rclib_v0.35/datatypes/list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 /home/rcor/dev/C/pcap/rclib_v0.35/datatypes/node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:/home/rcor/dev/C/pcap/rclib_v0.35/datatypes/mat.c
+	"mat.h"
+
+1316035838 /home/rcor/dev/C/pcap/rclib_v0.35/datatypes/mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:/home/rcor/dev/C/pcap/rclib_v0.35/datatypes/node.c
+	"node.h"
+
+1316034906 source:/home/rcor/dev/C/pcap/rclib_v0.35/datatypes/stack.c
+	"stack.h"
+
+1319224756 /home/rcor/dev/C/pcap/rclib_v0.35/datatypes/stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:/home/rcor/dev/C/pcap/rclib_v0.35/datatypes/str.c
+	"str.h"
+
+1316910112 /home/rcor/dev/C/pcap/rclib_v0.35/datatypes/str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:/home/rcor/dev/C/pcap/rclib_v0.35/datatypes/vec.c
+	"vec.h"
+
+1317134860 /home/rcor/dev/C/pcap/rclib_v0.35/datatypes/vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1335153327 source:/home/rcor/dev/C/pcap/rclib_v0.35/ml/nbc.c
+	"nbc.h"
+	<math.h>
+	<stdio.h>
+
+1333427308 /home/rcor/dev/C/pcap/rclib_v0.35/ml/nbc.h
+	"../datatypes/mat.h"
+	"../datatypes/vec.h"
+	"../datatypes/primitives.h"
+
+1333569528 source:/home/rcor/dev/C/pcap/rclib_v0.35/ml/nbcio.c
+	"nbcio.h"
+
+1333569506 /home/rcor/dev/C/pcap/rclib_v0.35/ml/nbcio.h
+	"nbc.h"
+	<stdio.h>
+
+1333653503 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317128896 /home/rcor/dev/C/pcap/rclib_v0.35/net/nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1344568521 /home/rcor/dev/C/pcap/rclib_v0.35/net/packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/vlan8021q.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316692954 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1317130540 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317485900 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317488146 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317043314 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/netutil.c
+	"netutil.h"
+
+1317043318 /home/rcor/dev/C/pcap/rclib_v0.35/net/netutil.h
+	"packet.h"
+	"nethost.h"
+
+1316005842 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/network.c
+	"network.h"
+
+1344568560 /home/rcor/dev/C/pcap/rclib_v0.35/net/network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/vlan8021q.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1344568572 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316690098 /home/rcor/dev/C/pcap/rclib_v0.35/net/util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1316440822 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/arp.c
+	"arp.h"
+
+1316087690 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/icmpv6.c
+	"icmpv6.h"
+
+1317131232 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1335150846 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/security/dosc.c
+	"dosc.h"
+	"../../ml/nbcio.h"
+
+1335019740 /home/rcor/dev/C/pcap/rclib_v0.35/net/security/dosc.h
+	<stdio.h>
+	"doscp/packetp.h"
+	"../../ml/nbc.h"
+	"../../datatypes/list.h"
+	"../../datatypes/vec.h"
+	"../../datatypes/mat.h"
+	"../../datatypes/node.h"
+
+1334805655 /home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/packetp.h
+	"../../util.h"
+	"../../../datatypes/primitives.h"
+	"../../../datatypes/hashtab.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+	"../../../time/time.h"
+	"../../packet.h"
+	"icmpp.h"
+	"tcpp.h"
+	"udpp.h"
+	<stdio.h>
+	<stdlib.h>
+
+1316475222 /home/rcor/dev/C/pcap/rclib_v0.35/time/time.h
+	<stdio.h>
+	<time.h>
+
+1333382707 /home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/icmpp.h
+	<stdio.h>
+	"../../../util.h"
+
+1317209756 /home/rcor/dev/C/pcap/rclib_v0.35/util.h
+	"datatypes/primitives.h"
+
+1334841393 /home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/tcpp.h
+	<stdlib.h>
+	<stdio.h>
+	"../../../util.h"
+	"../../../datatypes/vec.h"
+	"../../../datatypes/mat.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+
+1334061880 /home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/udpp.h
+	<stdio.h>
+	"../../../util.h"
+	"../../../datatypes/vec.h"
+	"../../../datatypes/mat.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+
+1333383102 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/icmpp.c
+	"icmpp.h"
+
+1334062107 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/packetp.c
+	"packetp.h"
+
+1334806817 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/packetpio.c
+	"packetp.h"
+
+1334841401 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/tcpp.c
+	"tcpp.h"
+
+1334846575 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/security/doscp/udpp.c
+	"udpp.h"
+
+1316087844 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/util.c
+	"util.h"
+
+1318509744 source:/home/rcor/dev/C/pcap/rclib_v0.35/time/hr_time.c
+	"hr_time.h"
+
+1317416132 /home/rcor/dev/C/pcap/rclib_v0.35/time/hr_time.h
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1319323421 source:/home/rcor/dev/C/pcap/rclib_v0.35/time/time.c
+	"time.h"
+
+1317296742 source:/home/rcor/dev/C/pcap/rclib_v0.35/time/timer.c
+	"timer.h"
+
+1317296750 /home/rcor/dev/C/pcap/rclib_v0.35/time/timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1317135238 source:/home/rcor/dev/C/pcap/rclib_v0.35/util.c
+	"util.h"
+
+1344876552 source:/home/rcor/dev/C/pcap/rclib_v0.35/main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<pcap.h>
+	"time/time.h"
+	"time/timer.h"
+	"net/network.h"
+	"net/util.h"
+	"net/netutil.h"
+	"net/nethost.h"
+	"net/security/doscp/packetp.h"
+	"net/security/dosc.h"
+	<stdio.h>
+	<stdlib.h>
+	"./datatypes/mat.h"
+	"./datatypes/vec.h"
+	"./ml/nbc.h"
+	"./ml/nbcio.h"
+
+1344565562 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/vlan802_1q.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1344565575 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/vlan802_1q.c
+	"vlan802_1q.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1344568460 /home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/vlan8021q.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1344568432 source:/home/rcor/dev/C/pcap/rclib_v0.35/net/protocols/vlan8021q.c
+	"vlan8021q.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1318729703 source:/home/rcor/dev/C/pcap/rclib_v1.0/datatypes/hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1317134056 /home/rcor/dev/C/pcap/rclib_v1.0/datatypes/hashtab.h
+	"primitives.h"
+
+1315829586 /home/rcor/dev/C/pcap/rclib_v1.0/datatypes/primitives.h
+	<limits.h>
+
+1345320485 source:/home/rcor/dev/C/pcap/rclib_v1.0/datatypes/list.c
+	"list.h"
+
+1345320496 /home/rcor/dev/C/pcap/rclib_v1.0/datatypes/list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 /home/rcor/dev/C/pcap/rclib_v1.0/datatypes/node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:/home/rcor/dev/C/pcap/rclib_v1.0/datatypes/mat.c
+	"mat.h"
+
+1316035838 /home/rcor/dev/C/pcap/rclib_v1.0/datatypes/mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:/home/rcor/dev/C/pcap/rclib_v1.0/datatypes/node.c
+	"node.h"
+
+1316034906 source:/home/rcor/dev/C/pcap/rclib_v1.0/datatypes/stack.c
+	"stack.h"
+
+1319224756 /home/rcor/dev/C/pcap/rclib_v1.0/datatypes/stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:/home/rcor/dev/C/pcap/rclib_v1.0/datatypes/str.c
+	"str.h"
+
+1316910112 /home/rcor/dev/C/pcap/rclib_v1.0/datatypes/str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:/home/rcor/dev/C/pcap/rclib_v1.0/datatypes/vec.c
+	"vec.h"
+
+1317134860 /home/rcor/dev/C/pcap/rclib_v1.0/datatypes/vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1335153327 source:/home/rcor/dev/C/pcap/rclib_v1.0/ml/nbc.c
+	"nbc.h"
+	<math.h>
+	<stdio.h>
+
+1333427308 /home/rcor/dev/C/pcap/rclib_v1.0/ml/nbc.h
+	"../datatypes/mat.h"
+	"../datatypes/vec.h"
+	"../datatypes/primitives.h"
+
+1333569528 source:/home/rcor/dev/C/pcap/rclib_v1.0/ml/nbcio.c
+	"nbcio.h"
+
+1333569506 /home/rcor/dev/C/pcap/rclib_v1.0/ml/nbcio.h
+	"nbc.h"
+	<stdio.h>
+
+1333653503 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317128896 /home/rcor/dev/C/pcap/rclib_v1.0/net/nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1344877623 /home/rcor/dev/C/pcap/rclib_v1.0/net/packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/vlan8021q.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316692954 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1317130540 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1345414572 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1345407728 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/vlan8021q.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317485900 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317488146 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317043314 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/netutil.c
+	"netutil.h"
+
+1317043318 /home/rcor/dev/C/pcap/rclib_v1.0/net/netutil.h
+	"packet.h"
+	"nethost.h"
+
+1316005842 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/network.c
+	"network.h"
+
+1345330344 /home/rcor/dev/C/pcap/rclib_v1.0/net/network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/http.h"
+	"protocols/ipv6.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/udp.h"
+	"protocols/vlan8021q.h"
+	"protocols/tcp.h"
+	"packet.h"
+
+1345410511 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1345332553 /home/rcor/dev/C/pcap/rclib_v1.0/net/util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1316440822 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/arp.c
+	"arp.h"
+
+1345413207 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/icmpv6.c
+	"icmpv6.h"
+
+1317131232 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1345407420 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/vlan8021q.c
+	"vlan8021q.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1335150846 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/security/dosc.c
+	"dosc.h"
+	"../../ml/nbcio.h"
+
+1335019740 /home/rcor/dev/C/pcap/rclib_v1.0/net/security/dosc.h
+	<stdio.h>
+	"doscp/packetp.h"
+	"../../ml/nbc.h"
+	"../../datatypes/list.h"
+	"../../datatypes/vec.h"
+	"../../datatypes/mat.h"
+	"../../datatypes/node.h"
+
+1334805655 /home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/packetp.h
+	"../../util.h"
+	"../../../datatypes/primitives.h"
+	"../../../datatypes/hashtab.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+	"../../../time/time.h"
+	"../../packet.h"
+	"icmpp.h"
+	"tcpp.h"
+	"udpp.h"
+	<stdio.h>
+	<stdlib.h>
+
+1316475222 /home/rcor/dev/C/pcap/rclib_v1.0/time/time.h
+	<stdio.h>
+	<time.h>
+
+1333382707 /home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/icmpp.h
+	<stdio.h>
+	"../../../util.h"
+
+1317209756 /home/rcor/dev/C/pcap/rclib_v1.0/util.h
+	"datatypes/primitives.h"
+
+1334841393 /home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/tcpp.h
+	<stdlib.h>
+	<stdio.h>
+	"../../../util.h"
+	"../../../datatypes/vec.h"
+	"../../../datatypes/mat.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+
+1334061880 /home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/udpp.h
+	<stdio.h>
+	"../../../util.h"
+	"../../../datatypes/vec.h"
+	"../../../datatypes/mat.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+
+1333383102 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/icmpp.c
+	"icmpp.h"
+
+1334062107 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/packetp.c
+	"packetp.h"
+
+1334806817 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/packetpio.c
+	"packetp.h"
+
+1334841401 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/tcpp.c
+	"tcpp.h"
+
+1334846575 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/security/doscp/udpp.c
+	"udpp.h"
+
+1345332948 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/util.c
+	"util.h"
+
+1318509744 source:/home/rcor/dev/C/pcap/rclib_v1.0/time/hr_time.c
+	"hr_time.h"
+
+1317416132 /home/rcor/dev/C/pcap/rclib_v1.0/time/hr_time.h
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1319323421 source:/home/rcor/dev/C/pcap/rclib_v1.0/time/time.c
+	"time.h"
+
+1317296742 source:/home/rcor/dev/C/pcap/rclib_v1.0/time/timer.c
+	"timer.h"
+
+1317296750 /home/rcor/dev/C/pcap/rclib_v1.0/time/timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1345332528 source:/home/rcor/dev/C/pcap/rclib_v1.0/util.c
+	"util.h"
+
+1345327034 source:/home/rcor/dev/C/pcap/rclib_v1.0/main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<pcap.h>
+	"time/time.h"
+	"time/timer.h"
+	"net/network.h"
+	"net/util.h"
+	"net/netutil.h"
+	"net/nethost.h"
+	"net/events/pparser.h"
+	"net/security/doscp/packetp.h"
+	"net/security/dosc.h"
+
+1345310387 /home/rcor/dev/C/pcap/rclib_v1.0/pparser.h
+	<stdio.h>
+	"net/network.h"
+	"net/util.h"
+
+1345325952 source:/home/rcor/dev/C/pcap/rclib_v1.0/pparser.c
+	"pparser.h"
+	"datatypes/list.h"
+
+1345338872 /home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/http.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1345327351 /home/rcor/dev/C/pcap/rclib_v1.0/net/events/pparser.h
+	<stdio.h>
+	"../network.h"
+	"../util.h"
+	"ehandlers.h"
+
+1345327389 /home/rcor/dev/C/pcap/rclib_v1.0/net/events/ehandlers.h
+	<stdio.h>
+	"../network.h"
+	"../util.h"
+
+1345327615 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/events/ehandlers.c
+	"ehandlers.h"
+
+1345407895 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/events/pparser.c
+	"pparser.h"
+	"../../datatypes/list.h"
+
+1345338944 source:/home/rcor/dev/C/pcap/rclib_v1.0/net/protocols/http.c
+	"http.h"
+	<string.h>
+
+1318729703 source:/home/rcor/dev/C/pcap/rclib_v1.1/datatypes/hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1317134056 /home/rcor/dev/C/pcap/rclib_v1.1/datatypes/hashtab.h
+	"primitives.h"
+
+1315829586 /home/rcor/dev/C/pcap/rclib_v1.1/datatypes/primitives.h
+	<limits.h>
+
+1345320485 source:/home/rcor/dev/C/pcap/rclib_v1.1/datatypes/list.c
+	"list.h"
+
+1345320496 /home/rcor/dev/C/pcap/rclib_v1.1/datatypes/list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 /home/rcor/dev/C/pcap/rclib_v1.1/datatypes/node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:/home/rcor/dev/C/pcap/rclib_v1.1/datatypes/mat.c
+	"mat.h"
+
+1316035838 /home/rcor/dev/C/pcap/rclib_v1.1/datatypes/mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:/home/rcor/dev/C/pcap/rclib_v1.1/datatypes/node.c
+	"node.h"
+
+1316034906 source:/home/rcor/dev/C/pcap/rclib_v1.1/datatypes/stack.c
+	"stack.h"
+
+1319224756 /home/rcor/dev/C/pcap/rclib_v1.1/datatypes/stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:/home/rcor/dev/C/pcap/rclib_v1.1/datatypes/str.c
+	"str.h"
+
+1316910112 /home/rcor/dev/C/pcap/rclib_v1.1/datatypes/str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:/home/rcor/dev/C/pcap/rclib_v1.1/datatypes/vec.c
+	"vec.h"
+
+1317134860 /home/rcor/dev/C/pcap/rclib_v1.1/datatypes/vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1345327034 source:/home/rcor/dev/C/pcap/rclib_v1.1/main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+	<pcap.h>
+	"time/time.h"
+	"time/timer.h"
+	"net/network.h"
+	"net/util.h"
+	"net/netutil.h"
+	"net/nethost.h"
+	"net/events/pparser.h"
+	"net/security/doscp/packetp.h"
+	"net/security/dosc.h"
+
+1316475222 /home/rcor/dev/C/pcap/rclib_v1.1/time/time.h
+	<stdio.h>
+	<time.h>
+
+1317296750 /home/rcor/dev/C/pcap/rclib_v1.1/time/timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1345330344 /home/rcor/dev/C/pcap/rclib_v1.1/net/network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/http.h"
+	"protocols/ipv6.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/udp.h"
+	"protocols/vlan8021q.h"
+	"protocols/tcp.h"
+	"packet.h"
+
+1316692954 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1345504157 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1345414572 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1346285231 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/http.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/hashtab.h"
+
+1316702224 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1317485900 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317488146 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1345407728 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/vlan8021q.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 /home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1345503244 /home/rcor/dev/C/pcap/rclib_v1.1/net/packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/vlan8021q.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1345332553 /home/rcor/dev/C/pcap/rclib_v1.1/net/util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1317043318 /home/rcor/dev/C/pcap/rclib_v1.1/net/netutil.h
+	"packet.h"
+	"nethost.h"
+
+1317128896 /home/rcor/dev/C/pcap/rclib_v1.1/net/nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1345327351 /home/rcor/dev/C/pcap/rclib_v1.1/net/events/pparser.h
+	<stdio.h>
+	"../network.h"
+	"../util.h"
+	"ehandlers.h"
+
+1345775252 /home/rcor/dev/C/pcap/rclib_v1.1/net/events/ehandlers.h
+	<stdio.h>
+	"../network.h"
+	"../util.h"
+
+1334805655 /home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/packetp.h
+	"../../util.h"
+	"../../../datatypes/primitives.h"
+	"../../../datatypes/hashtab.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+	"../../../time/time.h"
+	"../../packet.h"
+	"icmpp.h"
+	"tcpp.h"
+	"udpp.h"
+	<stdio.h>
+	<stdlib.h>
+
+1333382707 /home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/icmpp.h
+	<stdio.h>
+	"../../../util.h"
+
+1317209756 /home/rcor/dev/C/pcap/rclib_v1.1/util.h
+	"datatypes/primitives.h"
+
+1334841393 /home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/tcpp.h
+	<stdlib.h>
+	<stdio.h>
+	"../../../util.h"
+	"../../../datatypes/vec.h"
+	"../../../datatypes/mat.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+
+1334061880 /home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/udpp.h
+	<stdio.h>
+	"../../../util.h"
+	"../../../datatypes/vec.h"
+	"../../../datatypes/mat.h"
+	"../../../datatypes/list.h"
+	"../../../datatypes/node.h"
+
+1335019740 /home/rcor/dev/C/pcap/rclib_v1.1/net/security/dosc.h
+	<stdio.h>
+	"doscp/packetp.h"
+	"../../ml/nbc.h"
+	"../../datatypes/list.h"
+	"../../datatypes/vec.h"
+	"../../datatypes/mat.h"
+	"../../datatypes/node.h"
+
+1333427308 /home/rcor/dev/C/pcap/rclib_v1.1/ml/nbc.h
+	"../datatypes/mat.h"
+	"../datatypes/vec.h"
+	"../datatypes/primitives.h"
+
+1335153327 source:/home/rcor/dev/C/pcap/rclib_v1.1/ml/nbc.c
+	"nbc.h"
+	<math.h>
+	<stdio.h>
+
+1333569528 source:/home/rcor/dev/C/pcap/rclib_v1.1/ml/nbcio.c
+	"nbcio.h"
+
+1333569506 /home/rcor/dev/C/pcap/rclib_v1.1/ml/nbcio.h
+	"nbc.h"
+	<stdio.h>
+
+1346286746 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/events/ehandlers.c
+	"ehandlers.h"
+	"../html.h"
+
+1346285909 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/events/pparser.c
+	"pparser.h"
+	"../../datatypes/list.h"
+	"../../datatypes/str.h"
+
+1333653503 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317043314 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/netutil.c
+	"netutil.h"
+
+1316005842 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/network.c
+	"network.h"
+
+1345410511 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316440822 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/arp.c
+	"arp.h"
+
+1316087702 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1345777294 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/http.c
+	"http.h"
+	<string.h>
+
+1316783738 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/icmpv6.c
+	"icmpv6.h"
+
+1317131232 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1345407420 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/vlan8021q.c
+	"vlan8021q.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1335150846 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/security/dosc.c
+	"dosc.h"
+	"../../ml/nbcio.h"
+
+1333383102 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/icmpp.c
+	"icmpp.h"
+
+1334062107 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/packetp.c
+	"packetp.h"
+
+1334806817 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/packetpio.c
+	"packetp.h"
+
+1334841401 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/tcpp.c
+	"tcpp.h"
+
+1334846575 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/security/doscp/udpp.c
+	"udpp.h"
+
+1345332948 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/util.c
+	"util.h"
+
+1318509744 source:/home/rcor/dev/C/pcap/rclib_v1.1/time/hr_time.c
+	"hr_time.h"
+
+1317416132 /home/rcor/dev/C/pcap/rclib_v1.1/time/hr_time.h
+	<windows.h>
+	<time.h>
+	<sys/time.h>
+
+1319323421 source:/home/rcor/dev/C/pcap/rclib_v1.1/time/time.c
+	"time.h"
+
+1317296742 source:/home/rcor/dev/C/pcap/rclib_v1.1/time/timer.c
+	"timer.h"
+
+1345332528 source:/home/rcor/dev/C/pcap/rclib_v1.1/util.c
+	"util.h"
+
+1345428206 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/protocols/dns.c
+	"dns.h"
+	"ipv4.h"
+	"ipv6.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1346286479 /home/rcor/dev/C/pcap/rclib_v1.1/net/html.h
+	"../datatypes/primitives.h"
+
+1346286619 source:/home/rcor/dev/C/pcap/rclib_v1.1/net/html.c
+	"html.h"
+

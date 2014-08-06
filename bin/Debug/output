@@ -1,0 +1,1208 @@
+Reading from file: /home/rcor/poxpcap/dcc.pcap
+64 20 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | d <a href="http:
+2f 2f 77 77 77 2e 64 63 63 2e 75 66 6d 67 2e 62 | //www.dcc.ufmg.b
+72 2f 64 63 63 2f 22 3e                         | r/dcc/">
+Version             : HTTP/1.1
+Code                : 302
+Message             : Found
+Location            : http://www.dcc.ufmg.br/dcc/
+Date                : Sun, 18 Mar 2012 14:46:21 GMT
+Content-Length      : 352
+Content-Type        : text/html; charset=iso-8859-1
+Keep-Alive          : timeout=5, max=100
+Server              : Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8e PHP/5.3.6 with Suhosin-Patch
+Connection          : Keep-Alive
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://www.dcc.ufmg.br/dcc/">here</a>.</p>
+<hr>
+<address>Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8e PHP/5.3.6 with Suhosin-Patch Server at www.dcc.ufmg.br Port 80</address>
+</body></html>
+
+**********************************************************************************************************
+6c 69 6e 6b 20 68 72 65 66 3d 22 2f 64 63 63 2f | link href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 66 6f 72 6d 61 74 | index.php?format
+3d 66 65 65 64 26 61 6d                         | =feed&am
+6c 69 6e 6b 20 68 72 65 66 3d 22 2f 64 63 63 2f | link href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 66 6f 72 6d 61 74 | index.php?format
+3d 66 65 65 64 26 61 6d                         | =feed&am
+6c 69 6e 6b 20 68 72 65 66 3d 22 2f 64 63 63 2f | link href="/dcc/
+66 61 76 69 63 6f 6e 2e 69 63 6f 22 20 72 65 6c | favicon.ico" rel
+3d 22 73 68 6f 72 74 63                         | ="shortc
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+6d 6f 64 75 6c 65 73 2f 6d 6f 64 5f 62 72 69 61 | modules/mod_bria
+73 6b 49 53 53 2f 6d 6f                         | skISS/mo
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 73 79 73 74 65 6d | templates/system
+2f 63 73 73 2f 73 79 73                         | /css/sys
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 73 79 73 74 65 6d | templates/system
+2f 63 73 73 2f 67 65 6e                         | /css/gen
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 73 79 73 74 65 6d | templates/system
+2f 63 73 73 2f 64 63 63                         | /css/dcc
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 64 63 63 5f 61 7a | templates/dcc_az
+75 6c 5f 6d 65 6c 68 6f                         | ul_melho
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 64 63 63 5f 61 7a | templates/dcc_az
+75 6c 5f 6d 65 6c 68 6f                         | ul_melho
+74 69 6f 6e 2e 68 72 65 66 3d 20 28 6f 70 74 69 | tion.href= (opti
+6f 6e 73 5b 73 65 6c 65 63 74 65 64 49 6e 64 65 | ons[selectedInde
+78 5d 2e 76 61 6c 75 65                         | x].value
+09 09 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | ..<a href="http:
+2f 2f 77 77 77 2e 62 72 61 73 69 6c 2e 67 6f 76 | //www.brasil.gov
+2e 62 72 2f 22 20 74 61                         | .br/" ta
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 78 6d 61                         | =com_xma
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | i><a href="http:
+2f 2f 77 65 62 6d 61 69 6c 2e 64 63 63 2e 75 66 | //webmail.dcc.uf
+6d 67 2e 62 72 22 20 74                         | mg.br" t
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+09 09 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | ..<a href="http:
+2f 2f 77 77 77 2e 64 63 63 2e 75 66 6d 67 2e 62 | //www.dcc.ufmg.b
+72 2f 65 73 70 65 63 69                         | r/especi
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+2f 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | /><a href="/dcc/
+69 6d 61 67 65 73 2f 61 72 71 75 69 76 6f 73 2f | images/arquivos/
+68 6f 72 61 72 69 6f 73                         | horarios
+61 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | a><a href="/dcc/
+69 6d 61 67 65 73 2f 61 72 71 75 69 76 6f 73 2f | images/arquivos/
+68 6f 72 61 72 69 6f 73                         | horarios
+61 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | a><a href="/dcc/
+69 6d 61 67 65 73 2f 61 72 71 75 69 76 6f 73 2f | images/arquivos/
+42 43 43 42 53 49 31 32                         | BCCBSI12
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+74 69 6f 6e 2e 68 72 65 66 3d 20 28 6f 70 74 69 | tion.href= (opti
+6f 6e 73 5b 73 65 6c 65 63 74 65 64 49 6e 64 65 | ons[selectedInde
+78 5d 2e 76 61 6c 75 65                         | x].value
+09 09 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | ..<a href="http:
+2f 2f 77 77 77 2e 62 72 61 73 69 6c 2e 67 6f 76 | //www.brasil.gov
+2e 62 72 2f 22 20 74 61                         | .br/" ta
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 78 6d 61                         | =com_xma
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | i><a href="http:
+2f 2f 77 65 62 6d 61 69 6c 2e 64 63 63 2e 75 66 | //webmail.dcc.uf
+6d 67 2e 62 72 22 20 74                         | mg.br" t
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+09 09 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | ..<a href="http:
+2f 2f 77 77 77 2e 64 63 63 2e 75 66 6d 67 2e 62 | //www.dcc.ufmg.b
+72 2f 65 73 70 65 63 69                         | r/especi
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 75 74 3d 20 40 00 00 d8 52 00 00 0d 0a 35 34 | iut= @...R....54
+37 37 0d 0a 0d 0a 0d 0a                         | 77......
+6c 69 6e 6b 20 68 72 65 66 3d 22 2f 64 63 63 2f | link href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 66 6f 72 6d 61 74 | index.php?format
+3d 66 65 65 64 26 61 6d                         | =feed&am
+6c 69 6e 6b 20 68 72 65 66 3d 22 2f 64 63 63 2f | link href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 66 6f 72 6d 61 74 | index.php?format
+3d 66 65 65 64 26 61 6d                         | =feed&am
+6c 69 6e 6b 20 68 72 65 66 3d 22 2f 64 63 63 2f | link href="/dcc/
+66 61 76 69 63 6f 6e 2e 69 63 6f 22 20 72 65 6c | favicon.ico" rel
+3d 22 73 68 6f 72 74 63                         | ="shortc
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+6d 6f 64 75 6c 65 73 2f 6d 6f 64 5f 62 72 69 61 | modules/mod_bria
+73 6b 49 53 53 2f 6d 6f                         | skISS/mo
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 73 79 73 74 65 6d | templates/system
+2f 63 73 73 2f 73 79 73                         | /css/sys
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 73 79 73 74 65 6d | templates/system
+2f 63 73 73 2f 67 65 6e                         | /css/gen
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 73 79 73 74 65 6d | templates/system
+2f 63 73 73 2f 64 63 63                         | /css/dcc
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 64 63 63 5f 61 7a | templates/dcc_az
+75 6c 5f 6d 65 6c 68 6f                         | ul_melho
+65 65 74 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | eet" href="/dcc/
+74 65 6d 70 6c 61 74 65 73 2f 64 63 63 5f 61 7a | templates/dcc_az
+75 6c 5f 6d 65 6c 68 6f                         | ul_melho
+74 69 6f 6e 2e 68 72 65 66 3d 20 28 6f 70 74 69 | tion.href= (opti
+6f 6e 73 5b 73 65 6c 65 63 74 65 64 49 6e 64 65 | ons[selectedInde
+78 5d 2e 76 61 6c 75 65                         | x].value
+09 09 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | ..<a href="http:
+2f 2f 77 77 77 2e 62 72 61 73 69 6c 2e 67 6f 76 | //www.brasil.gov
+2e 62 72 2f 22 20 74 61                         | .br/" ta
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 78 6d 61                         | =com_xma
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | i><a href="http:
+2f 2f 77 65 62 6d 61 69 6c 2e 64 63 63 2e 75 66 | //webmail.dcc.uf
+6d 67 2e 62 72 22 20 74                         | mg.br" t
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+64 64 79 22 20 68 72 65 66 3d 22 2f 64 63 63 2f | ddy" href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+69 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | i><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+09 09 3c 61 20 68 72 65 66 3d 22 68 74 74 70 3a | ..<a href="http:
+2f 2f 77 77 77 2e 64 63 63 2e 75 66 6d 67 2e 62 | //www.dcc.ufmg.b
+72 2f 65 73 70 65 63 69                         | r/especi
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+27 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | '><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+2f 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | /><a href="/dcc/
+69 6d 61 67 65 73 2f 61 72 71 75 69 76 6f 73 2f | images/arquivos/
+68 6f 72 61 72 69 6f 73                         | horarios
+61 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | a><a href="/dcc/
+69 6d 61 67 65 73 2f 61 72 71 75 69 76 6f 73 2f | images/arquivos/
+68 6f 72 61 72 69 6f 73                         | horarios
+61 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | a><a href="/dcc/
+69 6d 61 67 65 73 2f 61 72 71 75 69 76 6f 73 2f | images/arquivos/
+42 43 43 42 53 49 31 32                         | BCCBSI12
+22 3e 3c 61 20 68 72 65 66 3d 22 2f 64 63 63 2f | "><a href="/dcc/
+69 6e 64 65 78 2e 70 68 70 3f 6f 70 74 69 6f 6e | index.php?option
+3d 63 6f 6d 5f 63 6f 6e                         | =com_con
+Version             : HTTP/1.1
+Code                : 200
+Message             : OK
+Set-Cookie          : d4dad6935f632ac35975e3001dc7bbe8=56d1b23cc004c3ade8b775f72a13d7fc; path=/
+P3P                 : CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Date                : Sun, 18 Mar 2012 14:46:21 GMT
+Pragma              : no-cache
+Content-Type        : text/html; charset=utf-8
+Keep-Alive          : timeout=5, max=99
+Expires             : Mon, 1 Jan 2001 00:00:00 GMT
+Server              : Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8e PHP/5.3.6 with Suhosin-Patch
+X-Powered-By        : PHP/5.3.6
+Last-Modified       : Sun, 18 Mar 2012 14:46:22 GMT
+Cache-Control       : post-check=0, pre-check=0
+Connection          : Keep-Alive
+Transfer-Encoding   : chunked
+
+5477
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br" >
+<head>
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="/dcc/templates/dcc_azul_melhorado/pngfix.js"></script>
+<![endif]-->
+<!-- meta http-equiv="content-type" content="text/html; charset=iso-8859-1" / -->
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="DCC, dcc, computação" />
+  <meta name="description" content="Portal do DCC" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Portal do DCC</title>
+  <link href="/dcc/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/dcc/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/dcc/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/dcc/modules/mod_briaskISS/mod_briaskISS.css" type="text/css" />
+  <script type="text/javascript" src="/dcc/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/dcc/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/dcc/modules/mod_briaskISS/mod_briaskISS.js"></script>
+
+<link rel="stylesheet" href="/dcc/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/dcc/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/dcc/templates/system/css/dcc.css" type="text/css" />
+<link rel="stylesheet" href="/dcc/templates/dcc_azul_melhorado/css/template.css" type="text/css" />
+<link rel="stylesheet" href="/dcc/templates/dcc_azul_melhorado/css/tres_partes.css" type="text/css" />
+<title>DCC - Departamento de Ci&ecirc;ncia da Computa&ccedil;&atilde;o</title>
+<style type="text/css">
+	.pr {
+		background-color: #F8c400;
+		list-style-image: none;
+		font-family: 'Helvetica', 'Arial', 'sans-serif';
+		font-size: 8pt;
+		font-style: normal;
+		font-weight: normal
+	}
+</style>
+
+<script type="text/javascript">
+function IEHoverPseudo() {
+
+	var navItems = document.getElementById("primary-nav").getElementsByTagName("li");
+	
+	for (var i=0; i<navItems.length; i++) {
+		if(navItems[i].className == "menuparent") {
+			navItems[i].onmouseover=function() { this.className += " over"; }
+			navItems[i].onmouseout=function() { this.className = "menuparent"; }
+		}
+	}
+
+}
+window.onload = IEHoverPseudo;
+
+</script>
+
+<script language="JavaScript">
+	<!--
+	function nova_jan(newwindow)
+	{
+		var desktop = window.open(newwindow,'new_window','toolbar=yes,location=yes,directories=yes,status=yes,scrollbars=yes,menubar=yes,resizable=yes');
+	}
+	//-->
+</script>
+
+</head>
+
+<body>
+    
+	<div id="menugov">
+		<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffcc00" border="0">
+			<tbody>
+				<tr>
+					<td>
+						<table cellspacing="0" cellpadding="0" width="100%" border="0">
+	
+							<tbody>
+								<tr>
+									<td width="100%" height="25">
+										<table cellspacing="0" cellpadding="0" width="100%" align="left" bgcolor="#ffcc00" border="0">
+											<tbody>
+												
+												<tr bgcolor="#ffcc00">
+													<td valign="middle" align="left" width="430">
+														<img src="/dcc/images/imagens_ufmg/logo_edu.gif" alt="" width="430" height="21" />
+													</td>
+	
+													<td valign="middle" bgcolor="#ffcc00" height="25">
+														<select class="pr" onchange="if(options[selectedIndex].value) window.location.href= (options[selectedIndex].value)" size="1" name="opcoes"> 
+															<option value ="#">
+																Destaques do governo
+															</option>
+															<option value="javascript:nova_jan('http://www.brasil.gov.br')">
+																Portal do Governo Federal
+															</option>
+															<option value="javascript:nova_jan('http://www.e.gov.br')">
+																Portal de Servi&ccedil;os do Governo
+															</option>
+															<option value="javascript:nova_jan('http://www.radiobras.gov.br')">
+																Portal da Ag&ecirc;ncia de Not&iacute;cias
+															</option>
+															<option value="javascript:nova_jan('http://www.previdenciasocial.gov.br/reforma')">
+																Reforma da Previd&ecirc;ncia
+															</option>
+															<option value="javascript:nova_jan('http://www.fomezero.gov.br')">
+																Programa Fome Zero
+															</option>
+															<option value="javascript:nova_jan('http://www.siapenet.gov.br')">
+																Siapenet
+															</option>
+														</select> 
+													</td>
+													<td valign="middle" align="right" bgcolor="#ffcc00" height="25">
+														<div align="right">
+															<a href="http://www.brasil.gov.br/" target="_blank">
+																<img height="21" alt="Acesse o Portal do Governo Brasileiro" src="/dcc/images/imagens_ufmg/brasil2.gif" width="74" align="top" border="0" />
+															</a>&nbsp;&nbsp; 
+														</div>
+													</td>
+												</tr>
+												
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+	
+			</tbody>
+		</table>
+	</div> <!-- FIM div menugov-->
+	<div id="header">
+		<div style="float:right;padding-right:5px;padding-top:65px">
+		</div>
+		<!--<img src="/dcc/templates/dcc_azul_melhorado/images/separador_conteudo.png" width="855" height="6" />-->
+		<div style="float:left;padding-left:24px;padding-top:3px;text-align:right;font:10px;font-size:12px;">
+					</div>
+		<div style="float:right;padding-right:10px;text-align:right">
+			<div id="topmenu">
+						<div class="moduletable">
+					<ul id="mainlevel-nav"><li><a href="/dcc/index.php?option=com_xmap&amp;Itemid=111" class="mainlevel-nav" >Mapa do site</a></li><li><a href="/dcc/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=62" class="mainlevel-nav" >Contate-nos</a></li><li><a href="http://webmail.dcc.ufmg.br" target="_blank" class="mainlevel-nav" >Webmail</a></li><li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=67&amp;Itemid=58" class="mainlevel-nav" >Links</a></li><li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=60" class="mainlevel-nav" >FAQ</a></li></ul>		</div>
+	
+			</div>
+							<!-- Modulo de pesquisa -->
+						<div class="moduletable">
+					<form action="index.php" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="30" alt="Pesquisa" class="inputbox" type="text" size="30" value="Buscar no site..."  onblur="if(this.value=='') this.value='Buscar no site...';" onfocus="if(this.value=='Buscar no site...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="1" />
+</form>		</div>
+	
+					
+		</div>
+	</div>
+
+	<div id="container">	
+		<!--<div style="clear:both"></div>-->
+		<div id="topo_conteudo"></div>
+	
+		<div id="main">
+			<div style="padding-right:10px;padding-left:20px">
+			
+								
+				<div id="sidebar">
+		
+					<div id="barraLateral">
+
+						<div class="MenuPrincipal">
+							<h3>Menu Principal</h3>
+							<div id="primary-nav">
+								<ul id="primary-nav">
+ <li><a href="/dcc/index.php?option=com_content&amp;view=frontpage&amp;Itemid=1">Início</a></li>
+ <li class='menuparent'><a class="topdaddy" href="/dcc/index.php?option=com_content&amp;view=section&amp;id=6&amp;Itemid=112">O DCC</a><ul>
+<li class='menuparent'><a class="daddy" href="/dcc/index.php?option=com_content&amp;view=category&amp;id=117&amp;Itemid=175"> Câmara</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=122&amp;Itemid=180">Atas</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=275&amp;Itemid=176">Membros</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=121&amp;Itemid=179">Resoluções</a></li>
+</ul></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=80&amp;Itemid=109">História</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=103&amp;Itemid=154">Localização</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=102&amp;Itemid=152">Organograma</a></li>
+</ul></li>
+ <li class='menuparent'><a class="topdaddy" href="/dcc/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=32&amp;Itemid=155">Infraestrutura</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=104&amp;Itemid=156">CRC</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=105&amp;Itemid=158">DAComp</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=106&amp;Itemid=159">Biblioteca</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=107&amp;Itemid=160">Laboratórios</a></li>
+</ul></li>
+ <li class='menuparent'><a class="topdaddy" href="/dcc/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=8&amp;Itemid=57">Pesquisa</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=67&amp;Itemid=79">Grupos de Pesquisa</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=250&amp;Itemid=81">Projetos de Pesquisa</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=55&amp;Itemid=77">Produção Científica</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=57&amp;Itemid=78">Coop Internacional</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=82">Bolsas de Pesquisa</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=80">Agências de Fomentos</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=56">Publicações</a></li>
+</ul></li>
+ <li class='menuparent'><a class="topdaddy" href="/dcc/index.php?option=com_content&amp;view=section&amp;id=7&amp;Itemid=54">Ensino</a><ul>
+<li class='menuparent'><a class="daddy" href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=42&amp;Itemid=67"> Graduação</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;id=48&amp;Itemid=73">Ciência da Computação</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;id=49&amp;Itemid=74">Sistemas de Informação</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=50&amp;Itemid=75">Matemática Computacional</a></li>
+</ul></li>
+<li class='menuparent'><a class="daddy" href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=44&amp;Itemid=68"> Pós-Gradução</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=97&amp;Itemid=98">Doutorado</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=98&amp;Itemid=99">Mestrado</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=45&amp;Itemid=161">Especialização</a></li>
+</ul></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=47&amp;Itemid=72">Estágio</a></li>
+<li class='menuparent'><a class="daddy" href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=108&amp;Itemid=162"> Outros Cursos</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;id=110&amp;Itemid=163">Cursos a Distância</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;id=112&amp;Itemid=164">Cursos Presenciais</a></li>
+</ul></li>
+</ul></li>
+ <li class='menuparent'><a class="topdaddy" href="/dcc/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=9&amp;Itemid=55">Extensão</a><ul>
+<li class='menuparent'><a class="daddy" href="/dcc/index.php?option=com_content&amp;view=category&amp;id=109&amp;Itemid=83"> Cursos Programados</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;id=110&amp;Itemid=167">Cursos a Distância</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;id=112&amp;Itemid=168">Cursos Presenciais</a></li>
+</ul></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=85">Consultoria</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=70&amp;Itemid=86">POP-MG</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=84">Solicitação de Cursos</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=61&amp;Itemid=94">Empresa Jr.</a></li>
+</ul></li>
+ <li class='menuparent'><a class="topdaddy" href="/dcc/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=10&amp;Itemid=59">Pessoas</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=81&amp;Itemid=88">Alunos</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=89">Ex-Alunos</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=77&amp;Itemid=90">Funcionários</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=71&amp;Itemid=87">Professores</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=91">Professores Aposentados</a></li>
+</ul></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=46&amp;Itemid=71">Calendário da UFMG</a></li>
+ <li class='menuparent'><a class="topdaddy" href="/dcc/index.php?option=com_content&amp;view=section&amp;layout=blog&amp;id=14&amp;Itemid=113">Notícias & Eventos</a><ul>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=79&amp;Itemid=114">DCC na Mídia</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=75&amp;Itemid=151">Notícias</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=114&amp;Itemid=171">Banco de Notícias</a></li>
+ <li><a href="/dcc/index.php?option=com_content&amp;view=category&amp;id=116&amp;Itemid=173">Jornal do DCC - online</a></li>
+</ul></li>
+</ul>							</div>
+						</div>
+					<div id="Anuncio">
+								<div class="moduletable">
+					<h3>Concursos</h3>
+					<div class="dados" style="text-align: left;"><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=532:concurso-professor-adjunto&amp;catid=75:noticias&amp;Itemid=151">Concurso Professor ADJUNTO - Edital 148</a></div>
+<div class="dados" style="text-align: left;"><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=516:concurso-para-professor-titular&amp;catid=75:noticias&amp;Itemid=151">Concurso Professor TITULAR - Edital 576</a></div>
+<div class="dados" style="text-align: left;"><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=515:concurso-professor-adjunto&amp;catid=75:noticias&amp;Itemid=151">Concurso Professor ADJUNTO - Edital 575</a></div>
+<div class="dados" style="text-align: left;"></div>		</div>
+	
+						<div id="bottombar">
+									<div class="moduletable">
+					<div class="bannergroup">
+
+
+</div>		</div>
+	
+						</div>
+					</div>
+
+<!--						<br />
+						<a href="http://www.dcc.ufmg.br/especializacao/cei/AnaliseSistemas/as_selecao.htm" alt="Link para Divulga&ccedil;&atilde;o"><img border='0' style="position: relative;" src="/dcc/templates/dcc_azul_melhorado/images/divulgacao.jpg" alt="Informativo DCC!" title="Informativo DCC!" /></a>
+-->						
+					</div>
+					
+											<div id="barraCentral">	
+									<div class="moduletable">
+					 <noscript>
+	 <div>ImageSlideShow requires Javascript</div>
+ </noscript>
+
+
+
+<ul id="briask-iss83" class="briask-iss" style="margin-left: 16px;//margin-left: 0px; width:360px;height:125px"><li><img src="/dcc/images/slideShow/briaskThumbs//briaskThumb_biblioteca.jpg" alt="Departamento de Ciência da Computação" /></li><li><img src="/dcc/images/slideShow/briaskThumbs//briaskThumb_pesquisa.jpg" alt="Departamento de Ciência da Computação" /></li><li><img src="/dcc/images/slideShow/briaskThumbs//briaskThumb_salaaula.jpg" alt="Departamento de Ciência da Computação" /></li></ul>
+<script type="text/javascript">
+var briaskPics83 = [0];
+var briaskInstance83 =
+	new briaskISS(83,2,15000,25, briaskPics83);
+</script>		</div>
+			<div class="moduletable">
+					<h3>Últimas Notícias</h3>
+					
+<!-- START 'Display News by BK 1.6.8.1' -->
+
+<table class=' '><tr ><td class='contentpaneopen ' width="100%" valign="top"><span class=' '><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=530:1d-escola-de-verao-em-computacao&amp;catid=75:noticias&amp;Itemid=151"  ><p>A 1° Escola de Verão em Computação foi um Sucesso</p>
+</a></span><span class="article_separator"> </span>
+<div style="clear: both;"></div></td><tr ><td class='contentpaneopen ' width="100%" valign="top"><span class=' '><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=529:trabalho-desenvolvido-no-lbd&amp;catid=75:noticias&amp;Itemid=151"  ><p>Trabalho desenvolvido por alunos e professores do DCC é publicado como matéria de capa do periódico IEEE Transactions and Data Engineering.</p>
+</a></span><span class="article_separator"> </span>
+<div style="clear: both;"></div></td><tr ><td class='contentpaneopen ' width="100%" valign="top"><span class=' '><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=527:premio-sucesu-mg-2011&amp;catid=75:noticias&amp;Itemid=151"  ><p style="text-align: left;">Professor Nivio Ziviani recebe Prêmio SUCESU-MG 2011</p>
+</a></span><span class="article_separator"> </span>
+<div style="clear: both;"></div></td><tr ><td class='contentpaneopen ' width="100%" valign="top"><span class=' '><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=526:programa-new-browsing-system-multimodal-analysis&amp;catid=75:noticias&amp;Itemid=151"  ><p>Programa desenvolvido no DCC facilita a vida de usuários de vídeos web</p>
+</a></span><span class="article_separator"> </span>
+<div style="clear: both;"></div></td><tr ><td class='contentpaneopen ' width="100%" valign="top"><span class=' '><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=525:-ministerio-da-saude-adota-observatorio-da-dengue&amp;catid=75:noticias&amp;Itemid=151"  ><p><span> </span>Ministério da Saúde adota Observatório da Dengue</p>
+<p /><strong /><span style="font-size: 9pt; line-height: 130%; font-family: " /> 
+</a></span><span class="article_separator"> </span>
+<div style="clear: both;"></div></td><tr ><td class='contentpaneopen ' width="100%" valign="top"><span class=' '><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=520:empresa-zunnit-technollogies-assina-contrato-com-a-ufmg&amp;catid=75:noticias&amp;Itemid=151"  ><p>Empresa criada no DCC/UFMG é pioneira em assinar contrato com a Universidade</p>
+</a></span><span class="article_separator"> </span>
+<div style="clear: both;"></div></td></table>
+
+<!-- END 'Display News by BK 1.6.8.1' -->
+<span class=' '><a href="/dcc/index.php?option=com_content&amp;view=category&amp;id=75:noticias&amp;layout=blog&amp;Itemid=151" class=' ' >Leia todas as noticias</a></span>		</div>
+		
+						</div>
+											
+				</div>	<!-- fim sidebar -->
+				<div id="Conteudo">
+					
+					<div id="Propaganda">
+										
+					</div>
+					<div class="componentheading">
+	Portal do DCC</div>
+<table class="blog" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top">
+				</td>
+</tr>
+
+
+</table>
+
+							<div class="moduletable">
+					<h3>Horários 1°/2012</h3>
+					<div class="dados" style="text-align: center"><br /><a href="/dcc/images/arquivos/horariosatualizados20112.pdf" target="_blank"><img src="/dcc/images/stories/mestrado.jpg" border="0" width="87" height="98" /><br /></a><a href="/dcc/images/arquivos/horarioscompletos.pdf"><br /></a><a href="/dcc/images/arquivos/BCCBSI12012.pdf">Confira o quadro de horário do seu curso</a></div>		</div>
+			<div class="moduletable">
+					<h3>Destaques</h3>
+					<div class="dados" style="text-align: left;"><a href="/dcc/index.php?option=com_content&amp;view=article&amp;id=520:empresa-zunnit-technollogies-assina-contrato-com-a-ufmg&amp;catid=75:noticias&amp;Itemid=151">Empresa criada no DCC/UFMG é pioneira em assinar contrato com a Universidade</a>.</div>		</div>
+					
+				</div>
+				
+			</div> <!-- fim div so com style -->
+	
+		</div> <!-- fim div MAIN-->
+		
+	<div style="clear:both"></div>
+	<div id="rodape_conteudo"></div>
+				</div>
+	<!-- fim div conteiner-->
+	
+	<div id="footer">
+		
+		<p align="center">Av. Ant&ocirc;nio Carlos, 6627 - Pr&eacute;dio do ICEx - Pampulha - CEP: 31270-010 - Belo Horizonte<br />
+Minas Gerais - Brasil - Telefone: (0xx31) 3409 5860 Fax: (0xx31) 3409 5858</p>
+		<p>Departamento de Ci&ecirc;ncia da Computa&ccedil;&atilde;o - UFMG/ICEx<br />
+		Powered by Joomla! - Copyright 2008.</p>
+	</div>
+
+</body>
+</html>
+
+0
+
+
+**********************************************************************************************************
+Version             : HTTP/1.1
+Code                : 200
+Message             : OK
+Date                : Sun, 18 Mar 2012 14:46:22 GMT
+Content-Length      : 557
+Content-Type        : text/css
+Keep-Alive          : timeout=5, max=98
+Server              : Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8e PHP/5.3.6 with Suhosin-Patch
+ETag                : "5d76de-22d-453a4e2c2c5c0"
+Last-Modified       : Mon, 04 Aug 2008 16:32:31 GMT
+Connection          : Keep-Alive
+Accept-Ranges       : bytes
+
+@CHARSET "ISO-8859-1";
+
+ ul.briask-iss {position:relative;list-style:none;list-style-image:none;margin:0px auto;padding:0px;overflow:hidden;border:none;background:none;}
+ ul.briask-iss li {list-style:none;margin:0px;padding:0px;border:none;background:none;}
+ ul.briask-iss li a {margin:0px;padding:0px;border:none;background:none;}
+ ul.briask-iss li a img {display:none;position:absolute;padding:0px;top:0;left:0;border:none;background:none;}
+ ul.briask-iss li img {display:none;position:absolute;top:0;padding:0px;left:0;border:none;background:none;}/div
+**********************************************************************************************************
+Version             : HTTP/1.1
+Code                : 200
+Message             : OK
+Date                : Sun, 18 Mar 2012 14:46:22 GMT
+Content-Length      : 1963
+Content-Type        : application/javascript
+Keep-Alive          : timeout=5, max=100
+Server              : Apache/2.2.17 (FreeBSD) mod_ssl/2.2.17 OpenSSL/0.9.8e PHP/5.3.6 with Suhosin-Patch
+ETag                : "336425-7ab-4a73fb9b0e9c0"
+Last-Modified       : Mon, 04 Jul 2011 15:07:27 GMT
+Connection          : Keep-Alive
+Accept-Ranges       : bytes
+
+/**
+* @version		$Id: caption.js 5263 2006-10-02 01:25:24Z webImagery $
+* @copyright	Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved.
+* @license		GNU/GPL, see LICENSE.php
+* Joomla! is free software. This version may have been modified pursuant
+* to the GNU General Public License, and as distributed it includes or
+* is derivative of works licensed under the GNU General Public License or
+* other free or open source software licenses.
+* See COPYRIGHT.php for copyright notices and details.
+*/
+
+/**
+* JCaption javascript behavior
+*
+* Used for displaying image captions
+*
+* @package	Joomla
+* @since	1.5
+* @version	1.0
+*/
+var JCaption = new Class({
+	initialize: function(selector)
+	{
+		this.selector = selector;
+
+		var images = $$(selector);
+		images.each(function(image){ this.createCaption(image); }, this);
+	},
+
+	createCaption: function(element)
+	{
+		var caption   = document.createTextNode(element.title);
+		var container = document.createElement("div");
+		var text      = document.createElement("p");
+		var width     = element.getAttribute("width");
+		var align     = eleme

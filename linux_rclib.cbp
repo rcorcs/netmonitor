@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="linux_rclib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/linux_rclib" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-O3" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lpcap" />
+					<Add option="-lrt" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/linux_rclib" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="cclass.h" />
+		<Unit filename="datatypes/hashtab.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="datatypes/hashtab.h" />
+		<Unit filename="datatypes/list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="datatypes/list.h" />
+		<Unit filename="datatypes/mat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="datatypes/mat.h" />
+		<Unit filename="datatypes/node.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="datatypes/node.h" />
+		<Unit filename="datatypes/primitives.h" />
+		<Unit filename="datatypes/stack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="datatypes/stack.h" />
+		<Unit filename="datatypes/str.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="datatypes/str.h" />
+		<Unit filename="datatypes/vec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="datatypes/vec.h" />
+		<Unit filename="file.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ml/nbc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ml/nbc.h" />
+		<Unit filename="ml/nbcio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ml/nbcio.h" />
+		<Unit filename="net/events/ehandlers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/events/ehandlers.h" />
+		<Unit filename="net/events/pparser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/events/pparser.h" />
+		<Unit filename="net/html.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/html.h" />
+		<Unit filename="net/nethost.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/nethost.h" />
+		<Unit filename="net/netutil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/netutil.h" />
+		<Unit filename="net/network.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/network.h" />
+		<Unit filename="net/packet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/packet.h" />
+		<Unit filename="net/protocols/arp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/arp.h" />
+		<Unit filename="net/protocols/dns.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/dns.h" />
+		<Unit filename="net/protocols/eth.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/eth.h" />
+		<Unit filename="net/protocols/http.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/http.h" />
+		<Unit filename="net/protocols/icmpv4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/icmpv4.h" />
+		<Unit filename="net/protocols/icmpv6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/icmpv6.h" />
+		<Unit filename="net/protocols/ipv4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/ipv4.h" />
+		<Unit filename="net/protocols/ipv6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/ipv6.h" />
+		<Unit filename="net/protocols/ppp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/ppp.h" />
+		<Unit filename="net/protocols/tcp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/tcp.h" />
+		<Unit filename="net/protocols/udp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/udp.h" />
+		<Unit filename="net/protocols/vlan8021q.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/protocols/vlan8021q.h" />
+		<Unit filename="net/security/dosc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/security/dosc.h" />
+		<Unit filename="net/security/doscp/icmpp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/security/doscp/icmpp.h" />
+		<Unit filename="net/security/doscp/packetp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/security/doscp/packetp.h" />
+		<Unit filename="net/security/doscp/packetpio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/security/doscp/tcpp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/security/doscp/tcpp.h" />
+		<Unit filename="net/security/doscp/udpp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/security/doscp/udpp.h" />
+		<Unit filename="net/util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="net/util.h" />
+		<Unit filename="time/hr_time.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="time/hr_time.h" />
+		<Unit filename="time/time.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="time/time.h" />
+		<Unit filename="time/timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="time/timer.h" />
+		<Unit filename="util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="util.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

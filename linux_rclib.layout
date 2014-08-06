@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="cclass.h" open="0" top="0" tabpos="0">
+		<Cursor position="309" topLine="0" />
+	</File>
+	<File name="datatypes/hashtab.c" open="0" top="0" tabpos="9">
+		<Cursor position="1252" topLine="36" />
+	</File>
+	<File name="datatypes/hashtab.h" open="1" top="0" tabpos="9">
+		<Cursor position="76" topLine="0" />
+	</File>
+	<File name="datatypes/list.c" open="0" top="0" tabpos="0">
+		<Cursor position="1855" topLine="81" />
+	</File>
+	<File name="datatypes/list.h" open="0" top="0" tabpos="4">
+		<Cursor position="658" topLine="9" />
+	</File>
+	<File name="datatypes/mat.c" open="0" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="datatypes/mat.h" open="0" top="0" tabpos="0">
+		<Cursor position="265" topLine="3" />
+	</File>
+	<File name="datatypes/node.c" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="22" />
+	</File>
+	<File name="datatypes/node.h" open="0" top="0" tabpos="0">
+		<Cursor position="204" topLine="8" />
+	</File>
+	<File name="datatypes/primitives.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="42" />
+	</File>
+	<File name="datatypes/stack.h" open="0" top="0" tabpos="0">
+		<Cursor position="215" topLine="6" />
+	</File>
+	<File name="datatypes/str.c" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="datatypes/str.h" open="0" top="0" tabpos="10">
+		<Cursor position="248" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="311" topLine="0" />
+	</File>
+	<File name="ml/nbc.c" open="0" top="0" tabpos="8">
+		<Cursor position="2196" topLine="69" />
+	</File>
+	<File name="ml/nbc.h" open="0" top="0" tabpos="4">
+		<Cursor position="279" topLine="1" />
+	</File>
+	<File name="ml/nbcio.c" open="0" top="0" tabpos="9">
+		<Cursor position="439" topLine="8" />
+	</File>
+	<File name="ml/nbcio.h" open="0" top="0" tabpos="5">
+		<Cursor position="175" topLine="0" />
+	</File>
+	<File name="net/events/ehandlers.c" open="1" top="0" tabpos="8">
+		<Cursor position="660" topLine="31" />
+	</File>
+	<File name="net/events/ehandlers.h" open="1" top="0" tabpos="7">
+		<Cursor position="144" topLine="0" />
+	</File>
+	<File name="net/events/pparser.c" open="1" top="0" tabpos="4">
+		<Cursor position="9402" topLine="270" />
+	</File>
+	<File name="net/events/pparser.h" open="1" top="0" tabpos="3">
+		<Cursor position="264" topLine="0" />
+	</File>
+	<File name="net/html.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="347" topLine="0" />
+	</File>
+	<File name="net/html.h" open="1" top="1" tabpos="10">
+		<Cursor position="30" topLine="0" />
+	</File>
+	<File name="net/nethost.c" open="0" top="0" tabpos="4">
+		<Cursor position="153" topLine="0" />
+	</File>
+	<File name="net/nethost.h" open="0" top="0" tabpos="3">
+		<Cursor position="711" topLine="6" />
+	</File>
+	<File name="net/netutil.c" open="0" top="0" tabpos="2">
+		<Cursor position="22" topLine="0" />
+	</File>
+	<File name="net/netutil.h" open="0" top="0" tabpos="5">
+		<Cursor position="1244" topLine="19" />
+	</File>
+	<File name="net/network.h" open="0" top="0" tabpos="10">
+		<Cursor position="408" topLine="5" />
+	</File>
+	<File name="net/packet.c" open="0" top="0" tabpos="7">
+		<Cursor position="3371" topLine="123" />
+	</File>
+	<File name="net/packet.h" open="1" top="0" tabpos="2">
+		<Cursor position="777" topLine="24" />
+	</File>
+	<File name="net/protocols/arp.c" open="0" top="0" tabpos="14">
+		<Cursor position="994" topLine="4" />
+	</File>
+	<File name="net/protocols/dns.c" open="0" top="0" tabpos="7">
+		<Cursor position="7517" topLine="173" />
+	</File>
+	<File name="net/protocols/dns.h" open="0" top="0" tabpos="8">
+		<Cursor position="5844" topLine="128" />
+	</File>
+	<File name="net/protocols/eth.c" open="0" top="0" tabpos="15">
+		<Cursor position="782" topLine="7" />
+	</File>
+	<File name="net/protocols/eth.h" open="0" top="0" tabpos="11">
+		<Cursor position="4580" topLine="62" />
+	</File>
+	<File name="net/protocols/http.c" open="1" top="0" tabpos="6">
+		<Cursor position="7764" topLine="280" />
+	</File>
+	<File name="net/protocols/http.h" open="1" top="0" tabpos="5">
+		<Cursor position="930" topLine="26" />
+	</File>
+	<File name="net/protocols/icmpv4.c" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="net/protocols/icmpv4.h" open="0" top="0" tabpos="8">
+		<Cursor position="2082" topLine="36" />
+	</File>
+	<File name="net/protocols/icmpv6.c" open="0" top="0" tabpos="7">
+		<Cursor position="325" topLine="0" />
+	</File>
+	<File name="net/protocols/icmpv6.h" open="0" top="0" tabpos="9">
+		<Cursor position="1954" topLine="32" />
+	</File>
+	<File name="net/protocols/ipv4.c" open="0" top="0" tabpos="0">
+		<Cursor position="305" topLine="3" />
+	</File>
+	<File name="net/protocols/ipv4.h" open="0" top="0" tabpos="13">
+		<Cursor position="9239" topLine="144" />
+	</File>
+	<File name="net/protocols/ipv6.h" open="0" top="0" tabpos="0">
+		<Cursor position="668" topLine="20" />
+	</File>
+	<File name="net/protocols/tcp.c" open="0" top="0" tabpos="0">
+		<Cursor position="557" topLine="9" />
+	</File>
+	<File name="net/protocols/tcp.h" open="0" top="0" tabpos="9">
+		<Cursor position="521" topLine="12" />
+	</File>
+	<File name="net/protocols/udp.c" open="0" top="0" tabpos="9">
+		<Cursor position="758" topLine="0" />
+	</File>
+	<File name="net/protocols/udp.h" open="0" top="0" tabpos="9">
+		<Cursor position="582" topLine="6" />
+	</File>
+	<File name="net/protocols/vlan8021q.c" open="0" top="0" tabpos="0">
+		<Cursor position="454" topLine="0" />
+	</File>
+	<File name="net/protocols/vlan8021q.h" open="0" top="0" tabpos="0">
+		<Cursor position="170" topLine="0" />
+	</File>
+	<File name="net/security/dosc.c" open="0" top="0" tabpos="3">
+		<Cursor position="2776" topLine="113" />
+	</File>
+	<File name="net/security/dosc.h" open="0" top="0" tabpos="2">
+		<Cursor position="872" topLine="14" />
+	</File>
+	<File name="net/security/doscp/icmpp.c" open="0" top="0" tabpos="0">
+		<Cursor position="775" topLine="18" />
+	</File>
+	<File name="net/security/doscp/icmpp.h" open="0" top="0" tabpos="0">
+		<Cursor position="117" topLine="0" />
+	</File>
+	<File name="net/security/doscp/packetp.c" open="0" top="0" tabpos="4">
+		<Cursor position="288" topLine="162" />
+	</File>
+	<File name="net/security/doscp/packetp.h" open="0" top="0" tabpos="2">
+		<Cursor position="1264" topLine="11" />
+	</File>
+	<File name="net/security/doscp/packetpio.c" open="0" top="0" tabpos="3">
+		<Cursor position="11425" topLine="375" />
+	</File>
+	<File name="net/security/doscp/tcpp.c" open="0" top="0" tabpos="4">
+		<Cursor position="1722" topLine="88" />
+	</File>
+	<File name="net/security/doscp/tcpp.h" open="0" top="0" tabpos="5">
+		<Cursor position="955" topLine="27" />
+	</File>
+	<File name="net/security/doscp/udpp.c" open="0" top="0" tabpos="7">
+		<Cursor position="591" topLine="22" />
+	</File>
+	<File name="net/security/doscp/udpp.h" open="0" top="0" tabpos="6">
+		<Cursor position="835" topLine="18" />
+	</File>
+	<File name="net/util.c" open="0" top="0" tabpos="0">
+		<Cursor position="2550" topLine="92" />
+	</File>
+	<File name="net/util.h" open="1" top="0" tabpos="11">
+		<Cursor position="600" topLine="9" />
+	</File>
+	<File name="time/hr_time.c" open="0" top="0" tabpos="0">
+		<Cursor position="134" topLine="0" />
+	</File>
+	<File name="time/time.c" open="0" top="0" tabpos="1">
+		<Cursor position="547" topLine="0" />
+	</File>
+	<File name="time/time.h" open="0" top="0" tabpos="0">
+		<Cursor position="693" topLine="14" />
+	</File>
+	<File name="time/timer.h" open="0" top="0" tabpos="13">
+		<Cursor position="254" topLine="15" />
+	</File>
+	<File name="util.c" open="0" top="0" tabpos="0">
+		<Cursor position="144" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

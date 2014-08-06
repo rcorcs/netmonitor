@@ -1,0 +1,1492 @@
+# depslib dependency file v1.0
+1316432960 source:c:\projects\c\rclib\datatypes\hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1316045052 c:\projects\c\rclib\datatypes\hashtab.h
+	"primitives.h"
+
+1315829586 c:\projects\c\rclib\datatypes\primitives.h
+	<limits.h>
+
+1316034936 source:c:\projects\c\rclib\datatypes\list.c
+	"list.h"
+
+1316036074 c:\projects\c\rclib\datatypes\list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 c:\projects\c\rclib\datatypes\node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:c:\projects\c\rclib\datatypes\mat.c
+	"mat.h"
+
+1316035838 c:\projects\c\rclib\datatypes\mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:c:\projects\c\rclib\datatypes\node.c
+	"node.h"
+
+1316034906 source:c:\projects\c\rclib\datatypes\stack.c
+	"stack.h"
+
+1316029696 c:\projects\c\rclib\datatypes\stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:c:\projects\c\rclib\datatypes\str.c
+	"str.h"
+
+1316030342 c:\projects\c\rclib\datatypes\str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:c:\projects\c\rclib\datatypes\vec.c
+	"vec.h"
+
+1316030592 c:\projects\c\rclib\datatypes\vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1316087690 source:c:\projects\c\rclib\net\dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087674 c:\projects\c\rclib\net\dns.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087702 source:c:\projects\c\rclib\net\eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087698 c:\projects\c\rclib\net\eth.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087710 source:c:\projects\c\rclib\net\icmp.c
+	"icmp.h"
+
+1316087706 c:\projects\c\rclib\net\icmp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087724 source:c:\projects\c\rclib\net\ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+
+1316087716 c:\projects\c\rclib\net\ipv4.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+	"../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316005842 source:c:\projects\c\rclib\net\network.c
+	"network.h"
+
+1316689936 c:\projects\c\rclib\net\network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmp.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1254889204 f:\winpcap\include\pcap.h
+	<pcap/pcap.h>
+
+1277469864 f:\winpcap\include\pcap\pcap.h
+	<pcap-stdinc.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/time.h>
+	<pcap/bpf.h>
+	<stdio.h>
+	<Win32-Extensions.h>
+	<remote-ext.h>
+
+1254889204 f:\winpcap\include\pcap-stdinc.h
+	<winsock2.h>
+	<fcntl.h>
+	"bittypes.h"
+	<time.h>
+	<io.h>
+	"IP6_misc.h"
+	<stdint.h>
+
+1254889204 f:\winpcap\include\bittypes.h
+
+1254889198 f:\winpcap\include\ip6_misc.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1254889204 f:\winpcap\include\pcap\bpf.h
+
+1155154618 f:\winpcap\include\win32-extensions.h
+
+1190903536 f:\winpcap\include\remote-ext.h
+
+1316124060 c:\projects\c\rclib\net\ppp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087768 c:\projects\c\rclib\net\tcp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087776 c:\projects\c\rclib\net\udp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316689970 c:\projects\c\rclib\net\packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmp.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316702620 source:c:\projects\c\rclib\net\packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316690098 c:\projects\c\rclib\net\util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1316087762 source:c:\projects\c\rclib\net\ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:c:\projects\c\rclib\net\tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:c:\projects\c\rclib\net\udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087844 source:c:\projects\c\rclib\net\util.c
+	"util.h"
+
+1316088672 source:c:\projects\c\rclib\time\timer.c
+	"timer.h"
+
+1316476026 c:\projects\c\rclib\time\timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1316085844 source:c:\projects\c\rclib\time\wintimer.c
+	"wintimer.h"
+
+1316005210 c:\projects\c\rclib\time\wintimer.h
+	<stdio.h>
+	<windows.h>
+	"../datatypes/primitives.h"
+	"wintimer.h"
+
+1316783268 source:c:\projects\c\rclib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pcap.h>
+	"net/network.h"
+	"net/util.h"
+	"net/netutil.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<net/if.h>
+	<ifaddrs.h>
+	<errno.h>
+	<stdio.h>
+	"time/time.h"
+	<stdio.h>
+	<stdlib.h>
+	"datatypes/vec.h"
+	"datatypes/mat.h"
+	"datatypes/node.h"
+	"datatypes/list.h"
+	"datatypes/stack.h"
+	"datatypes/hashtab.h"
+
+1316475222 c:\projects\c\rclib\time\time.h
+	<stdio.h>
+	<time.h>
+
+1316087402 source:c:\projects\c\rclib\time\time.c
+	"time.h"
+
+1316434772 c:\projects\c\rclib\net\ipv6.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316432960 source:c:\projects\c\c\pcap\rclib\datatypes\hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1316045052 c:\projects\c\c\pcap\rclib\datatypes\hashtab.h
+	"primitives.h"
+
+1315829586 c:\projects\c\c\pcap\rclib\datatypes\primitives.h
+	<limits.h>
+
+1316034936 source:c:\projects\c\c\pcap\rclib\datatypes\list.c
+	"list.h"
+
+1316036074 c:\projects\c\c\pcap\rclib\datatypes\list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 c:\projects\c\c\pcap\rclib\datatypes\node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:c:\projects\c\c\pcap\rclib\datatypes\mat.c
+	"mat.h"
+
+1316035838 c:\projects\c\c\pcap\rclib\datatypes\mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:c:\projects\c\c\pcap\rclib\datatypes\node.c
+	"node.h"
+
+1316034906 source:c:\projects\c\c\pcap\rclib\datatypes\stack.c
+	"stack.h"
+
+1316029696 c:\projects\c\c\pcap\rclib\datatypes\stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:c:\projects\c\c\pcap\rclib\datatypes\str.c
+	"str.h"
+
+1316030342 c:\projects\c\c\pcap\rclib\datatypes\str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:c:\projects\c\c\pcap\rclib\datatypes\vec.c
+	"vec.h"
+
+1316030592 c:\projects\c\c\pcap\rclib\datatypes\vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1316440822 source:c:\projects\c\c\pcap\rclib\net\arp.c
+	"arp.h"
+
+1316476862 c:\projects\c\c\pcap\rclib\net\arp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1316087716 c:\projects\c\c\pcap\rclib\net\ipv4.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+	"../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316087698 c:\projects\c\c\pcap\rclib\net\eth.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087690 source:c:\projects\c\c\pcap\rclib\net\dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087674 c:\projects\c\c\pcap\rclib\net\dns.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087702 source:c:\projects\c\c\pcap\rclib\net\eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087710 source:c:\projects\c\c\pcap\rclib\net\icmp.c
+	"icmp.h"
+
+1316087706 c:\projects\c\c\pcap\rclib\net\icmp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316441850 source:c:\projects\c\c\pcap\rclib\net\ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+
+1316443900 source:c:\projects\c\c\pcap\rclib\net\ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316520756 c:\projects\c\c\pcap\rclib\net\ipv6.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+	"../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316005842 source:c:\projects\c\c\pcap\rclib\net\network.c
+	"network.h"
+
+1316519268 c:\projects\c\c\pcap\rclib\net\network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"arp.h"
+	"dns.h"
+	"eth.h"
+	"icmp.h"
+	"ipv4.h"
+	"ipv6.h"
+	"ppp.h"
+	"tcp.h"
+	"udp.h"
+	"packet.h"
+
+1316124060 c:\projects\c\c\pcap\rclib\net\ppp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087768 c:\projects\c\c\pcap\rclib\net\tcp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316087776 c:\projects\c\c\pcap\rclib\net\udp.h
+	<stdio.h>
+	"../datatypes/primitives.h"
+
+1316440264 c:\projects\c\c\pcap\rclib\net\packet.h
+	<stdio.h>
+	"eth.h"
+	"arp.h"
+	"ppp.h"
+	"ipv4.h"
+	"ipv6.h"
+	"tcp.h"
+	"udp.h"
+	"icmp.h"
+	"dns.h"
+
+1316444298 source:c:\projects\c\c\pcap\rclib\net\packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316087832 c:\projects\c\c\pcap\rclib\net\util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1316087762 source:c:\projects\c\c\pcap\rclib\net\ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:c:\projects\c\c\pcap\rclib\net\tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:c:\projects\c\c\pcap\rclib\net\udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087844 source:c:\projects\c\c\pcap\rclib\net\util.c
+	"util.h"
+
+1316087402 source:c:\projects\c\c\pcap\rclib\time\time.c
+	"time.h"
+
+1316475222 c:\projects\c\c\pcap\rclib\time\time.h
+	<stdio.h>
+	<time.h>
+
+1316088672 source:c:\projects\c\c\pcap\rclib\time\timer.c
+	"timer.h"
+
+1316476026 c:\projects\c\c\pcap\rclib\time\timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1316519711 source:c:\projects\c\c\pcap\rclib\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pcap.h>
+	"net/network.h"
+	"net/util.h"
+	"time/time.h"
+	<stdio.h>
+	<stdlib.h>
+	"datatypes/vec.h"
+	"datatypes/mat.h"
+	"datatypes/node.h"
+	"datatypes/list.h"
+	"datatypes/stack.h"
+	"datatypes/hashtab.h"
+
+1316692954 c:\projects\c\rclib\net\protocols\arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1316692994 c:\projects\c\rclib\net\protocols\ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 c:\projects\c\rclib\net\protocols\eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib\net\protocols\dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib\net\protocols\icmp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 c:\projects\c\rclib\net\protocols\ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 c:\projects\c\rclib\net\protocols\ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib\net\protocols\tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib\net\protocols\udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316440822 source:c:\projects\c\rclib\net\protocols\arp.c
+	"arp.h"
+
+1316087690 source:c:\projects\c\rclib\net\protocols\dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:c:\projects\c\rclib\net\protocols\eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087710 source:c:\projects\c\rclib\net\protocols\icmp.c
+	"icmp.h"
+
+1316441850 source:c:\projects\c\rclib\net\protocols\ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+
+1316702928 source:c:\projects\c\rclib\net\protocols\ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:c:\projects\c\rclib\net\protocols\ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:c:\projects\c\rclib\net\protocols\tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:c:\projects\c\rclib\net\protocols\udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316697796 c:\projects\c\rclib\net\netutil.h
+	"packet.h"
+	"nethost.h"
+
+1316695124 c:\projects\c\rclib\net\nethost.h
+	"packet.h"
+	"..\datatypes\str.h"
+
+1316698552 source:c:\projects\c\rclib\net\netutil.c
+	"netutil.h"
+	<stdio.h>
+	<windows.h>
+	<iphlpapi.h>
+	<assert.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<net/if.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<net/if.h>
+	<sys/ioctl.h>
+
+1316991158 source:c:\projects\c\rclib v0.11\datatypes\hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1316045052 c:\projects\c\rclib v0.11\datatypes\hashtab.h
+	"primitives.h"
+
+1315829586 c:\projects\c\rclib v0.11\datatypes\primitives.h
+	<limits.h>
+
+1316034936 source:c:\projects\c\rclib v0.11\datatypes\list.c
+	"list.h"
+
+1316036074 c:\projects\c\rclib v0.11\datatypes\list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 c:\projects\c\rclib v0.11\datatypes\node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:c:\projects\c\rclib v0.11\datatypes\mat.c
+	"mat.h"
+
+1316035838 c:\projects\c\rclib v0.11\datatypes\mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:c:\projects\c\rclib v0.11\datatypes\node.c
+	"node.h"
+
+1316034906 source:c:\projects\c\rclib v0.11\datatypes\stack.c
+	"stack.h"
+
+1316910132 c:\projects\c\rclib v0.11\datatypes\stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:c:\projects\c\rclib v0.11\datatypes\str.c
+	"str.h"
+
+1316910111 c:\projects\c\rclib v0.11\datatypes\str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:c:\projects\c\rclib v0.11\datatypes\vec.c
+	"vec.h"
+
+1316030592 c:\projects\c\rclib v0.11\datatypes\vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1317040473 source:c:\projects\c\rclib v0.11\net\nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317039978 c:\projects\c\rclib v0.11\net\nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1316785416 c:\projects\c\rclib v0.11\net\packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316692954 c:\projects\c\rclib v0.11\net\protocols\arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1317038170 c:\projects\c\rclib v0.11\net\protocols\ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 c:\projects\c\rclib v0.11\net\protocols\eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.11\net\protocols\dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785598 c:\projects\c\rclib v0.11\net\protocols\icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785606 c:\projects\c\rclib v0.11\net\protocols\icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 c:\projects\c\rclib v0.11\net\protocols\ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 c:\projects\c\rclib v0.11\net\protocols\ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.11\net\protocols\tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.11\net\protocols\udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316979257 source:c:\projects\c\rclib v0.11\net\netutil.c
+	"netutil.h"
+	<stdio.h>
+	<windows.h>
+	<iphlpapi.h>
+	<assert.h>
+	<winsock2.h>
+
+1316979981 c:\projects\c\rclib v0.11\net\netutil.h
+	"packet.h"
+	"nethost.h"
+
+1316005842 source:c:\projects\c\rclib v0.11\net\network.c
+	"network.h"
+
+1316785406 c:\projects\c\rclib v0.11\net\network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1316785644 source:c:\projects\c\rclib v0.11\net\packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316690098 c:\projects\c\rclib v0.11\net\util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1316440822 source:c:\projects\c\rclib v0.11\net\protocols\arp.c
+	"arp.h"
+
+1316087690 source:c:\projects\c\rclib v0.11\net\protocols\dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:c:\projects\c\rclib v0.11\net\protocols\eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:c:\projects\c\rclib v0.11\net\protocols\icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:c:\projects\c\rclib v0.11\net\protocols\icmpv6.c
+	"icmpv6.h"
+
+1317038841 source:c:\projects\c\rclib v0.11\net\protocols\ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:c:\projects\c\rclib v0.11\net\protocols\ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:c:\projects\c\rclib v0.11\net\protocols\ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:c:\projects\c\rclib v0.11\net\protocols\tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:c:\projects\c\rclib v0.11\net\protocols\udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316991248 source:c:\projects\c\rclib v0.11\net\stats\packetstats.c
+	"packetstats.h"
+
+1316989971 c:\projects\c\rclib v0.11\net\stats\packetstats.h
+	"../../datatypes/primitives.h"
+	"../../datatypes/hashtab.h"
+	"../packet.h"
+	"icmpstats.h"
+	"tcpstats.h"
+	"udpstats.h"
+
+1316989355 c:\projects\c\rclib v0.11\net\stats\icmpstats.h
+
+1316989125 c:\projects\c\rclib v0.11\net\stats\tcpstats.h
+
+1316989224 c:\projects\c\rclib v0.11\net\stats\udpstats.h
+
+1316087844 source:c:\projects\c\rclib v0.11\net\util.c
+	"util.h"
+
+1316087402 source:c:\projects\c\rclib v0.11\time\time.c
+	"time.h"
+
+1316475222 c:\projects\c\rclib v0.11\time\time.h
+	<stdio.h>
+	<time.h>
+
+1316088672 source:c:\projects\c\rclib v0.11\time\timer.c
+	"timer.h"
+
+1316476026 c:\projects\c\rclib v0.11\time\timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1316991158 source:c:\projects\c\rclib v0.12\datatypes\hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1316045052 c:\projects\c\rclib v0.12\datatypes\hashtab.h
+	"primitives.h"
+
+1315829586 c:\projects\c\rclib v0.12\datatypes\primitives.h
+	<limits.h>
+
+1316034936 source:c:\projects\c\rclib v0.12\datatypes\list.c
+	"list.h"
+
+1316036074 c:\projects\c\rclib v0.12\datatypes\list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 c:\projects\c\rclib v0.12\datatypes\node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:c:\projects\c\rclib v0.12\datatypes\mat.c
+	"mat.h"
+
+1316035838 c:\projects\c\rclib v0.12\datatypes\mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:c:\projects\c\rclib v0.12\datatypes\node.c
+	"node.h"
+
+1316034906 source:c:\projects\c\rclib v0.12\datatypes\stack.c
+	"stack.h"
+
+1316910132 c:\projects\c\rclib v0.12\datatypes\stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:c:\projects\c\rclib v0.12\datatypes\str.c
+	"str.h"
+
+1316910111 c:\projects\c\rclib v0.12\datatypes\str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:c:\projects\c\rclib v0.12\datatypes\vec.c
+	"vec.h"
+
+1316030592 c:\projects\c\rclib v0.12\datatypes\vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1317129276 source:c:\projects\c\rclib v0.12\main.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pcap.h>
+	"net/network.h"
+	"net/util.h"
+	"net/netutil.h"
+	"net/nethost.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	"time/time.h"
+	<stdio.h>
+	<stdlib.h>
+	"datatypes/vec.h"
+	"datatypes/mat.h"
+	"datatypes/node.h"
+	"datatypes/list.h"
+	"datatypes/stack.h"
+	"datatypes/hashtab.h"
+
+1316785406 c:\projects\c\rclib v0.12\net\network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1316692954 c:\projects\c\rclib v0.12\net\protocols\arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1317038170 c:\projects\c\rclib v0.12\net\protocols\ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 c:\projects\c\rclib v0.12\net\protocols\eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.12\net\protocols\dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785598 c:\projects\c\rclib v0.12\net\protocols\icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785606 c:\projects\c\rclib v0.12\net\protocols\icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 c:\projects\c\rclib v0.12\net\protocols\ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 c:\projects\c\rclib v0.12\net\protocols\ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.12\net\protocols\tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.12\net\protocols\udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785416 c:\projects\c\rclib v0.12\net\packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316690098 c:\projects\c\rclib v0.12\net\util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1317043316 c:\projects\c\rclib v0.12\net\netutil.h
+	"packet.h"
+	"nethost.h"
+
+1317128894 c:\projects\c\rclib v0.12\net\nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1316475222 c:\projects\c\rclib v0.12\time\time.h
+	<stdio.h>
+	<time.h>
+
+1317124856 source:c:\projects\c\rclib v0.12\net\nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317043313 source:c:\projects\c\rclib v0.12\net\netutil.c
+	"netutil.h"
+
+1316005842 source:c:\projects\c\rclib v0.12\net\network.c
+	"network.h"
+
+1316785644 source:c:\projects\c\rclib v0.12\net\packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316440822 source:c:\projects\c\rclib v0.12\net\protocols\arp.c
+	"arp.h"
+
+1316087690 source:c:\projects\c\rclib v0.12\net\protocols\dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:c:\projects\c\rclib v0.12\net\protocols\eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:c:\projects\c\rclib v0.12\net\protocols\icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:c:\projects\c\rclib v0.12\net\protocols\icmpv6.c
+	"icmpv6.h"
+
+1317038841 source:c:\projects\c\rclib v0.12\net\protocols\ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:c:\projects\c\rclib v0.12\net\protocols\ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:c:\projects\c\rclib v0.12\net\protocols\ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:c:\projects\c\rclib v0.12\net\protocols\tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:c:\projects\c\rclib v0.12\net\protocols\udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316991248 source:c:\projects\c\rclib v0.12\net\stats\packetstats.c
+	"packetstats.h"
+
+1316989971 c:\projects\c\rclib v0.12\net\stats\packetstats.h
+	"../../datatypes/primitives.h"
+	"../../datatypes/hashtab.h"
+	"../packet.h"
+	"icmpstats.h"
+	"tcpstats.h"
+	"udpstats.h"
+
+1316989355 c:\projects\c\rclib v0.12\net\stats\icmpstats.h
+
+1316989125 c:\projects\c\rclib v0.12\net\stats\tcpstats.h
+
+1316989224 c:\projects\c\rclib v0.12\net\stats\udpstats.h
+
+1316087844 source:c:\projects\c\rclib v0.12\net\util.c
+	"util.h"
+
+1316087402 source:c:\projects\c\rclib v0.12\time\time.c
+	"time.h"
+
+1316088672 source:c:\projects\c\rclib v0.12\time\timer.c
+	"timer.h"
+
+1316476026 c:\projects\c\rclib v0.12\time\timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1317134114 source:c:\projects\c\rclib v0.15\datatypes\hashtab.c
+	"hashtab.h"
+	<string.h>
+	<stdlib.h>
+
+1317134056 c:\projects\c\rclib v0.15\datatypes\hashtab.h
+	"primitives.h"
+
+1315829586 c:\projects\c\rclib v0.15\datatypes\primitives.h
+	<limits.h>
+
+1316034936 source:c:\projects\c\rclib v0.15\datatypes\list.c
+	"list.h"
+
+1316036074 c:\projects\c\rclib v0.15\datatypes\list.h
+	<stdlib.h>
+	<stdio.h>
+	"primitives.h"
+	"node.h"
+
+1316035916 c:\projects\c\rclib v0.15\datatypes\node.h
+	<stdlib.h>
+	"primitives.h"
+
+1316035826 source:c:\projects\c\rclib v0.15\datatypes\mat.c
+	"mat.h"
+
+1316035838 c:\projects\c\rclib v0.15\datatypes\mat.h
+	<stdlib.h>
+	"primitives.h"
+
+1316029644 source:c:\projects\c\rclib v0.15\datatypes\node.c
+	"node.h"
+
+1316034906 source:c:\projects\c\rclib v0.15\datatypes\stack.c
+	"stack.h"
+
+1316910132 c:\projects\c\rclib v0.15\datatypes\stack.h
+	"primitives.h"
+	"node.h"
+
+1316030334 source:c:\projects\c\rclib v0.15\datatypes\str.c
+	"str.h"
+
+1316910112 c:\projects\c\rclib v0.15\datatypes\str.h
+	<stdlib.h>
+	<string.h>
+	"primitives.h"
+
+1316030582 source:c:\projects\c\rclib v0.15\datatypes\vec.c
+	"vec.h"
+
+1317134860 c:\projects\c\rclib v0.15\datatypes\vec.h
+	<stdlib.h>
+	"primitives.h"
+
+1317129838 source:c:\projects\c\rclib v0.15\net\nethost.c
+	"nethost.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<winsock2.h>
+	<iphlpapi.h>
+	<net/if.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
+1317128896 c:\projects\c\rclib v0.15\net\nethost.h
+	"packet.h"
+	"../datatypes/str.h"
+
+1316785416 c:\projects\c\rclib v0.15\net\packet.h
+	<stdio.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+
+1316692954 c:\projects\c\rclib v0.15\net\protocols\arp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"ipv4.h"
+	"eth.h"
+
+1317130540 c:\projects\c\rclib v0.15\net\protocols\ipv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 c:\projects\c\rclib v0.15\net\protocols\eth.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.15\net\protocols\dns.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317132884 c:\projects\c\rclib v0.15\net\protocols\icmpv4.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316785606 c:\projects\c\rclib v0.15\net\protocols\icmpv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316702224 c:\projects\c\rclib v0.15\net\protocols\ipv6.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+	"../../datatypes/str.h"
+	<winsock2.h>
+	<netinet/in.h>
+
+1316692994 c:\projects\c\rclib v0.15\net\protocols\ppp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.15\net\protocols\tcp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1316692994 c:\projects\c\rclib v0.15\net\protocols\udp.h
+	<stdio.h>
+	"../../datatypes/primitives.h"
+
+1317043314 source:c:\projects\c\rclib v0.15\net\netutil.c
+	"netutil.h"
+
+1317043318 c:\projects\c\rclib v0.15\net\netutil.h
+	"packet.h"
+	"nethost.h"
+
+1316005842 source:c:\projects\c\rclib v0.15\net\network.c
+	"network.h"
+
+1316785406 c:\projects\c\rclib v0.15\net\network.h
+	<pcap.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"protocols/arp.h"
+	"protocols/dns.h"
+	"protocols/eth.h"
+	"protocols/icmpv4.h"
+	"protocols/icmpv6.h"
+	"protocols/ipv4.h"
+	"protocols/ipv6.h"
+	"protocols/ppp.h"
+	"protocols/tcp.h"
+	"protocols/udp.h"
+	"packet.h"
+
+1316785644 source:c:\projects\c\rclib v0.15\net\packet.c
+	"packet.h"
+	<winsock.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"util.h"
+
+1316690098 c:\projects\c\rclib v0.15\net\util.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../datatypes/primitives.h"
+
+1316440822 source:c:\projects\c\rclib v0.15\net\protocols\arp.c
+	"arp.h"
+
+1316087690 source:c:\projects\c\rclib v0.15\net\protocols\dns.c
+	"dns.h"
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087702 source:c:\projects\c\rclib v0.15\net\protocols\eth.c
+	"eth.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316783738 source:c:\projects\c\rclib v0.15\net\protocols\icmpv4.c
+	"icmpv4.h"
+
+1316785656 source:c:\projects\c\rclib v0.15\net\protocols\icmpv6.c
+	"icmpv6.h"
+
+1317131232 source:c:\projects\c\rclib v0.15\net\protocols\ipv4.c
+	"ipv4.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1316702928 source:c:\projects\c\rclib v0.15\net\protocols\ipv6.c
+	"ipv6.h"
+	<string.h>
+	<stdlib.h>
+
+1316087762 source:c:\projects\c\rclib v0.15\net\protocols\ppp.c
+	"ppp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087772 source:c:\projects\c\rclib v0.15\net\protocols\tcp.c
+	"tcp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1316087778 source:c:\projects\c\rclib v0.15\net\protocols\udp.c
+	"udp.h"
+	<winsock2.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1317216774 source:c:\projects\c\rclib v0.15\net\stats\packetstats.c
+	"packetstats.h"
+
+1317212372 c:\projects\c\rclib v0.15\net\stats\packetstats.h
+	"../../util.h"
+	"../../datatypes/primitives.h"
+	"../../datatypes/hashtab.h"
+	"../packet.h"
+	"icmpstats.h"
+	"tcpstats.h"
+	"udpstats.h"
+	<stdio.h>
+	<stdlib.h>
+
+1317209756 c:\projects\c\rclib v0.15\util.h
+	"datatypes/primitives.h"
+
+1317135184 c:\projects\c\rclib v0.15\net\stats\icmpstats.h
+	"../../util.h"
+
+1317209282 c:\projects\c\rclib v0.15\net\stats\tcpstats.h
+	<stdlib.h>
+	<stdio.h>
+	"../../util.h"
+
+1317135176 c:\projects\c\rclib v0.15\net\stats\udpstats.h
+	"../../util.h"
+
+1317216750 source:c:\projects\c\rclib v0.15\net\stats\tcpstats.c
+	"tcpstats.h"
+
+1316087844 source:c:\projects\c\rclib v0.15\net\util.c
+	"util.h"
+
+1317306667 source:c:\projects\c\rclib v0.15\time\hr_time.c
+	"hr_time.h"
+	<windows.h>
+
+1317306603 c:\projects\c\rclib v0.15\time\hr_time.h
+	<windows.h>
+
+1316087402 source:c:\projects\c\rclib v0.15\time\time.c
+	"time.h"
+
+1316475222 c:\projects\c\rclib v0.15\time\time.h
+	<stdio.h>
+	<time.h>
+
+1317296741 source:c:\projects\c\rclib v0.15\time\timer.c
+	"timer.h"
+
+1317296749 c:\projects\c\rclib v0.15\time\timer.h
+	"../datatypes/primitives.h"
+	<stdio.h>
+	<windows.h>
+	<signal.h>
+	<sys/time.h>
+
+1317135238 source:c:\projects\c\rclib v0.15\util.c
+	"util.h"
+
