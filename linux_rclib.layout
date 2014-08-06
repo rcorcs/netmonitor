@@ -67,10 +67,10 @@
 	<File name="net/events/pparser.h" open="1" top="0" tabpos="3">
 		<Cursor position="264" topLine="0" />
 	</File>
-	<File name="net/html.cpp" open="1" top="0" tabpos="12">
-		<Cursor position="347" topLine="0" />
+	<File name="net/html.cpp" open="1" top="1" tabpos="12">
+		<Cursor position="796" topLine="13" />
 	</File>
-	<File name="net/html.h" open="1" top="1" tabpos="10">
+	<File name="net/html.h" open="1" top="0" tabpos="10">
 		<Cursor position="30" topLine="0" />
 	</File>
 	<File name="net/nethost.c" open="0" top="0" tabpos="4">
