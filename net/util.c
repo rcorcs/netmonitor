@@ -113,31 +113,3 @@ byte_t *memfind(byte_t *data, uint_t dlen, byte_t *pattern, uint_t plen)
    }
    return 0;
 }
-
-__inline void print_vmask()
-{
-    fprint_vmask(stdout);
-}
-
-void fprint_vmask(FILE *stream)
-{
-   fprintf(stream, "▓▓░░░░░░░░░░░░░░░░░░▓▓\n");
-   fprintf(stream, "▓░████░░░░░░░░░░████░▓\n");
-   fprintf(stream, "▓░░░░░█░░░░░░░░█░░░░░▓\n");
-   fprintf(stream, "▓▒░░░░░░░▓░░▓░░░░░░░▒▓\n");
-   fprintf(stream, "▓░▒████▒░▓░░▓░▒████▒░▓\n");
-   fprintf(stream, "▓▒░░░░░░░▓░░▓░░░░░░░▒▓\n");
-   fprintf(stream, "▓░░░░░░░░▓░░▓░░░░░░░░▓\n");
-   fprintf(stream, "▓░░░░░░░▓▒░░▒▓░░░░░░░▓\n");
-   fprintf(stream, "▓░░░░░░▓░▒░░▒░▓░░░░░░▓\n");
-   fprintf(stream, "▓▒▒▒▒▒░▓░░░░░░▓░▒▒▒▒▒▓\n");
-   fprintf(stream, "▓░░█░░░░▒████▒░░░░█░░▓\n");
-   fprintf(stream, "▓░░▒██████▒▒██████▒░░▓\n");
-   fprintf(stream, "▓░░░░░░▒▒▒▒▒▒▒▒░░░░░░▓\n");
-   fprintf(stream, "▓░░░░░░░░░░░░░░░░░░░░▓\n");
-   fprintf(stream, "▓▓░░░░░░░████░░░░░░░▓▓\n");
-   fprintf(stream, "▓▓▓░░░░░░░██░░░░░░░▓▓▓\n");
-   fprintf(stream, "▓▓▓▓░░░░░░██░░░░░░▓▓▓▓\n");
-   fprintf(stream, "▓▓▓▓▓░░░░░██░░░░░▓▓▓▓▓\n");
-   fprintf(stream, "██████████████████████\n");
-}

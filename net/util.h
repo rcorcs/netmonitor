@@ -28,9 +28,6 @@ __inline void dump(const byte_t *data_buffer, const unsigned int length);
 
 byte_t *memfind(byte_t *data, uint_t dlen, byte_t *pattern, uint_t plen);
 
-void fprint_vmask(FILE *stream);
-__inline void print_vmask();
-
 #ifdef __cplusplus
 }//extern "C"
 #endif
