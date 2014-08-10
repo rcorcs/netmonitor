@@ -87,7 +87,7 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="net/events/pparser.h" />
-		<Unit filename="net/html.cpp">
+		<Unit filename="net/html.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="net/html.h" />
